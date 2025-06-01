@@ -1568,3 +1568,18 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [01Jun2025 16:59:43.546] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
 [01Jun2025 17:00:01.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3020ms or 60 ticks behind
 [01Jun2025 17:00:21.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4930ms or 98 ticks behind
+[01Jun2025 17:01:54.675] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxi_Castillo lost connection: Disconnected
+[01Jun2025 17:01:54.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo left the game
+[01Jun2025 17:07:32.545] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3d4f6add
+[01Jun2025 17:07:32.600] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[01Jun2025 17:07:32.610] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[01Jun2025 17:07:32.610] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Foxi_Castillo[/127.207.80.4:33243] logged in with entity id 2935 at (-3.8252246424737075, 66.0, 275.4301973281795)
+[01Jun2025 17:07:32.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo joined the game
+[01Jun2025 17:07:32.733] [Server thread/INFO] [Jade/]: Syncing config to Foxi_Castillo (eea1cc73-2ca4-3f52-b852-ce4cf1a5e48a)
+[01Jun2025 17:07:49.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Set own game mode to Survival Mode]
+[01Jun2025 17:07:57.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Set the time to 1000]
+[01Jun2025 17:07:58.127] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2088ms or 41 ticks behind
+[01Jun2025 17:08:55.871] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
+[01Jun2025 17:09:07.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Stone Age]
+[01Jun2025 17:09:18.140] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7301ms or 146 ticks behind
+[01Jun2025 17:09:37.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Getting an Upgrade]

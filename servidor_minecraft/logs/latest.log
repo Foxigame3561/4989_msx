@@ -1596,3 +1596,182 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [01Jun2025 17:21:11.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Suit Up]
 [01Jun2025 17:21:11.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [I Found It Underground]
 [01Jun2025 17:21:11.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Apothic Affixes]
+[01Jun2025 17:23:30.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has reached the goal [Worthy Equipment]
+[01Jun2025 17:26:25.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Sweet Dreams]
+[01Jun2025 17:27:33.681] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[01Jun2025 17:28:48.156] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[01Jun2025 17:28:59.226] [Worker-Main-33/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:28:59.226] [Worker-Main-33/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:00.097] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:00.101] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:00.118] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:02.809] [Worker-Main-48/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:02.811] [Worker-Main-48/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-7, z=111}
+[01Jun2025 17:29:02.812] [Worker-Main-48/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:02.812] [Worker-Main-48/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:04.365] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:04.393] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-26, y=19, z=109}
+[01Jun2025 17:29:04.394] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-29, y=19, z=108}
+[01Jun2025 17:29:04.394] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:04.394] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:04.394] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:04.395] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:04.395] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:04.395] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:04.441] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:04.442] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-6, y=19, z=110}
+[01Jun2025 17:29:04.443] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8, y=19, z=109}
+[01Jun2025 17:29:04.443] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-12, y=19, z=108}
+[01Jun2025 17:29:04.443] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-10, y=19, z=107}
+[01Jun2025 17:29:04.444] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-3, y=19, z=110}
+[01Jun2025 17:29:04.444] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:04.445] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:04.445] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:04.445] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:04.446] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:04.446] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:04.447] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:04.447] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:04.448] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:04.448] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:04.449] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1, y=-7, z=111}
+[01Jun2025 17:29:04.449] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-3, z=111}
+[01Jun2025 17:29:04.581] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-33, y=19, z=109}
+[01Jun2025 17:29:04.583] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-31, y=19, z=108}
+[01Jun2025 17:29:04.583] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-31, y=19, z=110}
+[01Jun2025 17:29:04.584] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-32, y=19, z=111}
+[01Jun2025 17:29:04.584] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:04.585] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:09.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5987ms or 119 ticks behind
+[01Jun2025 17:29:09.722] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=10, y=11, z=119}
+[01Jun2025 17:29:09.723] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=10, y=11, z=122}
+[01Jun2025 17:29:09.725] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=11, z=123}
+[01Jun2025 17:29:09.726] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=11, z=121}
+[01Jun2025 17:29:09.726] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=10, y=11, z=120}
+[01Jun2025 17:29:09.726] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=11, z=119}
+[01Jun2025 17:29:09.729] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=11, y=11, z=121}
+[01Jun2025 17:29:09.729] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5, y=4, z=122}
+[01Jun2025 17:29:09.730] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:09.732] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:09.733] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:09.733] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:09.734] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:09.735] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:09.738] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:09.741] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-7, z=119}
+[01Jun2025 17:29:09.741] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=4, y=-7, z=120}
+[01Jun2025 17:29:09.746] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-7, z=121}
+[01Jun2025 17:29:09.747] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=4, y=-7, z=123}
+[01Jun2025 17:29:09.748] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-7, z=123}
+[01Jun2025 17:29:09.753] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-7, z=120}
+[01Jun2025 17:29:09.753] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-7, z=121}
+[01Jun2025 17:29:09.754] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-7, z=117}
+[01Jun2025 17:29:09.754] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=4, y=-7, z=117}
+[01Jun2025 17:29:09.754] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:09.758] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:09.759] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:09.759] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:09.781] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=11, z=124}
+[01Jun2025 17:29:09.782] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=9, y=11, z=125}
+[01Jun2025 17:29:09.784] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=4, z=127}
+[01Jun2025 17:29:09.784] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:09.785] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:09.785] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:09.785] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:09.791] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-7, z=124}
+[01Jun2025 17:29:09.792] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=4, y=-7, z=127}
+[01Jun2025 17:29:09.795] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:09.795] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:09.796] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:09.797] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:09.884] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:09.887] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:09.887] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:09.888] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:09.932] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:09.932] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jun2025 17:29:28.795] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4706ms or 94 ticks behind
+[01Jun2025 17:29:47.639] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3850ms or 77 ticks behind
+[01Jun2025 17:30:01.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Set the world spawn point to 280, 69, 881 [0.0]]
+[01Jun2025 17:30:02.062] [Worker-Main-48/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-139, y=-7, z=-52}
+[01Jun2025 17:30:02.063] [Worker-Main-48/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-139, y=-7, z=-53}
+[01Jun2025 17:30:02.070] [Worker-Main-48/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-137, y=-7, z=-53}
+[01Jun2025 17:30:02.162] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-152, y=-11, z=-59}
+[01Jun2025 17:30:02.163] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-160, y=-11, z=-62}
+[01Jun2025 17:30:02.164] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-158, y=-11, z=-64}
+[01Jun2025 17:30:02.165] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-146, y=-11, z=-57}
+[01Jun2025 17:30:02.165] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-146, y=-11, z=-56}
+[01Jun2025 17:30:02.166] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-147, y=-11, z=-55}
+[01Jun2025 17:30:02.166] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-160, y=-11, z=-63}
+[01Jun2025 17:30:02.166] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-150, y=-7, z=-54}
+[01Jun2025 17:30:02.167] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-154, y=-7, z=-64}
+[01Jun2025 17:30:02.391] [Worker-Main-48/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-162, y=-11, z=-62}
+[01Jun2025 17:30:06.866] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4227ms or 84 ticks behind
+[01Jun2025 17:30:15.050] [Worker-Main-48/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-154, y=-11, z=-49}
+[01Jun2025 17:30:15.051] [Worker-Main-48/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-153, y=26, z=-40}
+[01Jun2025 17:30:15.052] [Worker-Main-48/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-153, y=20, z=-35}
+[01Jun2025 17:30:15.055] [Worker-Main-48/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-158, y=25, z=-38}
+[01Jun2025 17:30:15.077] [Worker-Main-48/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-150, y=-11, z=-48}
+[01Jun2025 17:30:15.078] [Worker-Main-48/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-153, y=-11, z=-48}
+[01Jun2025 17:30:15.078] [Worker-Main-48/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-146, y=-7, z=-36}
+[01Jun2025 17:30:15.189] [Worker-Main-48/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-11, z=-43}
+[01Jun2025 17:30:31.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2101ms or 42 ticks behind
+[01Jun2025 17:30:40.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Magic Writing]
+[01Jun2025 17:30:55.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxi_Castillo moved too quickly! -9.349359478966335,0.2125251991254089,-3.8946385790216027
+[01Jun2025 17:30:55.884] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2895ms or 57 ticks behind
+[01Jun2025 17:33:01.923] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=59, y=69, z=1035} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[01Jun2025 17:33:01.924] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=59, y=69, z=1035}
+[01Jun2025 17:34:07.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Not Today, Thank You]
+[01Jun2025 17:34:50.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Knowledge of Death]
+[01Jun2025 17:34:50.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Ambush]
+[01Jun2025 17:35:59.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Killed 8 entities]
+[01Jun2025 17:38:13.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [People Are Strange]
+[01Jun2025 17:38:24.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has reached the goal [Netherite Tier]
+[01Jun2025 17:43:47.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Killed 20 entities]
+[01Jun2025 17:45:21.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Killed 8 entities]
+[01Jun2025 17:46:26.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Killed 13 entities]
+[01Jun2025 17:48:52.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Killed Pillager]
+[01Jun2025 17:48:59.203] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3364ms or 67 ticks behind
+[01Jun2025 17:49:05.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Acquire Hardware]
+[01Jun2025 17:49:49.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Killed 4 entities]
+[01Jun2025 17:49:55.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Killed 11 entities]
+[01Jun2025 17:50:02.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has completed the challenge [Pillager Fortress]
+[01Jun2025 17:50:26.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Killed 2 entities]
+[01Jun2025 17:50:37.503] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2414ms or 48 ticks behind
+[01Jun2025 17:50:42.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Killed 2 entities]
+[01Jun2025 17:51:00.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Killed 3 entities]
+[01Jun2025 17:51:16.004] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3264ms or 65 ticks behind
+[01Jun2025 17:51:22.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Killed 2 entities]
+[01Jun2025 17:51:29.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Killed 2 entities]
+[01Jun2025 17:52:03.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Killed Pillager]
+[01Jun2025 17:52:21.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Isn't It Iron Pick]
+[01Jun2025 17:52:25.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Killed 2 entities]
+[01Jun2025 17:54:44.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Killed 2 entities]
+[01Jun2025 17:54:53.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Killed 33 entities]
+[01Jun2025 17:56:15.029] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Ravager['Brad'/16590, l='ServerLevel[world]', x=30.46, y=93.00, z=944.02] died: Brad fell out of the world
+[01Jun2025 17:56:15.031] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Ravager['Brad'/16608, l='ServerLevel[world]', x=28.49, y=93.00, z=943.94] died: Brad fell out of the world
+[01Jun2025 17:56:15.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Killed 3 entities]
+[01Jun2025 17:58:15.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has reached the goal [Fortuitous Militia]
+[01Jun2025 17:58:25.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Killed 11 entities]
+[01Jun2025 17:59:21.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Pic-A-Nic Basket?]
+[01Jun2025 17:59:51.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Cloud Storage]
+[01Jun2025 18:00:10.863] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EntityKomodoDragon['Sally'/16441, l='ServerLevel[world]', x=32.07, y=93.38, z=940.28] died: Sally was slain by Foxi_Castillo
+[01Jun2025 18:00:56.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Diamonds!]
+[01Jun2025 18:01:47.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Set own game mode to Creative Mode]
+[01Jun2025 18:02:30.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Set own game mode to Survival Mode]
+[01Jun2025 18:04:13.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Gone Bananas!]
+[01Jun2025 18:11:00.204] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxi_Castillo lost connection: Disconnected
+[01Jun2025 18:11:00.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo left the game
+[01Jun2025 18:11:17.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[01Jun2025 18:11:17.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Jun2025 18:11:17.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Jun2025 18:11:17.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Jun2025 18:11:19.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Jun2025 18:11:20.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Jun2025 18:11:20.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Jun2025 18:11:20.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Jun2025 18:11:20.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Jun2025 18:11:20.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Jun2025 18:11:20.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01Jun2025 18:11:20.447] [Server thread/INFO] [Framework/]: Unloading server configs...
+[01Jun2025 18:11:20.448] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml

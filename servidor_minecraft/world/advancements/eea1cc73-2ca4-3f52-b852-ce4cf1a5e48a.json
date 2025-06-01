@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2025-06-01 17:21:11 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2025-05-29 18:30:06 +0000"
@@ -53,6 +59,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-06-01 17:19:30 +0000"
+    },
+    "done": true
+  },
   "tconstruct:tools/materials_and_you": {
     "criteria": {
       "crafted_book": "2025-05-29 18:30:04 +0000"
@@ -71,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-06-01 17:21:11 +0000"
+    },
+    "done": true
+  },
   "mutantmonsters:root": {
     "criteria": {
       "killed_something": "2025-05-29 19:00:36 +0000"
@@ -83,9 +101,33 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-06-01 17:19:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-01 17:19:34 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/needle_and_thread": {
+    "criteria": {
+      "has_item": "2025-06-01 17:15:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-06-01 17:09:07 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2025-06-01 17:20:33 +0000"
     },
     "done": true
   },
@@ -97,8 +139,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-06-01 17:15:09 +0000",
       "minecraft:sparse_jungle": "2025-05-29 18:30:06 +0000",
       "minecraft:river": "2025-05-29 18:32:55 +0000",
+      "minecraft:forest": "2025-06-01 17:17:37 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-01 17:12:27 +0000",
       "minecraft:savanna": "2025-06-01 17:09:00 +0000",
       "minecraft:plains": "2025-05-29 18:32:19 +0000"
     },
@@ -107,6 +152,12 @@
   "mca:recipes/misc/family_tree": {
     "criteria": {
       "has_item": "2025-06-01 17:08:17 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2025-06-01 17:20:33 +0000"
     },
     "done": true
   },
@@ -140,6 +191,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2025-06-01 17:21:11 +0000"
+    },
+    "done": true
+  },
   "apotheosis:give_book": {
     "criteria": {
       "tick": "2025-05-29 18:30:04 +0000"
@@ -164,6 +221,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-06-01 17:19:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-05-29 19:00:36 +0000"
@@ -179,6 +242,18 @@
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2025-05-29 18:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-01 17:19:35 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-06-01 17:19:30 +0000"
     },
     "done": true
   },

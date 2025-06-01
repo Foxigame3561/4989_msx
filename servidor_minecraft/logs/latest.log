@@ -1583,3 +1583,16 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [01Jun2025 17:09:07.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Stone Age]
 [01Jun2025 17:09:18.140] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7301ms or 146 ticks behind
 [01Jun2025 17:09:37.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Getting an Upgrade]
+[01Jun2025 17:12:23.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[01Jun2025 17:12:41.887] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3798ms or 75 ticks behind
+[01Jun2025 17:15:09.791] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[01Jun2025 17:15:28.975] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4186ms or 83 ticks behind
+[01Jun2025 17:19:30.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has reached the goal [Quaint Scribe]
+[01Jun2025 17:19:34.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Into Fire]
+[01Jun2025 17:19:35.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Ice Bucket Challenge]
+[01Jun2025 17:19:37.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Tools of the Trade]
+[01Jun2025 17:20:33.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Not a Diamond]
+[01Jun2025 17:20:33.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Far From Perfect]
+[01Jun2025 17:21:11.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Suit Up]
+[01Jun2025 17:21:11.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [I Found It Underground]
+[01Jun2025 17:21:11.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Apothic Affixes]

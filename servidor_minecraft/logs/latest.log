@@ -1439,3 +1439,22 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [02Jun2025 19:55:05.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo self destructed whilst fighting Zombie
 [02Jun2025 19:55:05.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Your First Grave]
 [02Jun2025 20:07:46.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Crops of the Wild]
+[02Jun2025 20:08:08.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Gamerule sendCommandFeedback is now set to: false]
+[02Jun2025 20:08:13.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Set the time to 1000]
+[02Jun2025 20:08:31.874] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7202ad76
+[02Jun2025 20:08:31.878] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zeni[/127.200.240.207:45677] logged in with entity id 17896 at (282.5, 69.0, 887.5)
+[02Jun2025 20:08:31.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zeni joined the game
+[02Jun2025 20:08:32.075] [Server thread/INFO] [Jade/]: Syncing config to zeni (213e4645-6b95-3127-9904-cdce32040b2e)
+[02Jun2025 20:08:32.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zeni has made the advancement [Integrated Dungeons and Structures]
+[02Jun2025 20:14:59.093] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=266, y=73, z=884}
+[02Jun2025 20:15:15.211] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=266, y=73, z=884}
+[02Jun2025 20:15:35.100] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=268, y=72, z=884}
+[02Jun2025 20:15:35.542] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=268, y=71, z=884}
+[02Jun2025 20:15:44.842] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=267, y=75, z=886}
+[02Jun2025 20:18:16.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zeni has made the advancement [Sweet Dreams]
+[02Jun2025 20:20:41.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Ashes 'n Bones]
+[02Jun2025 20:24:52.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zeni has made the advancement [Suit Up]
+[02Jun2025 20:24:54.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zeni has reached the goal [Worthy Equipment]
+[02Jun2025 20:24:54.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zeni has made the advancement [Apothic Affixes]
+[02Jun2025 20:24:54.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zeni has made the advancement [I Found It Underground]
+[02Jun2025 20:25:01.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zeni has made the advancement [Acquire Hardware]

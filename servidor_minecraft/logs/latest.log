@@ -3324,3 +3324,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [02Jun2025 22:57:49.874] [Server thread/INFO] [tombstone/]: The player Foxi_Castillo has successfully been saved
 [02Jun2025 23:03:30.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [A Strange Grave Dust]
 [02Jun2025 23:08:48.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Amateur Archaeologist]
+[02Jun2025 23:12:29.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Teleported Foxi_Castillo to 292.500000, 70.500000, 896.500000]
+[02Jun2025 23:20:10.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has reached the goal [Pray to the Goddess]

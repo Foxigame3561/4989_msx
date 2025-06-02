@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2025-06-02 22:01:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-06-02 20:40:31 +0000",
@@ -250,6 +256,12 @@
   "mca:recipes/misc/comb": {
     "criteria": {
       "has_item": "2025-06-02 20:25:01 +0000"
+    },
+    "done": true
+  },
+  "idas:pillager_fortress": {
+    "criteria": {
+      "in_pillager_fortress": "2025-06-02 22:02:33 +0000"
     },
     "done": true
   },

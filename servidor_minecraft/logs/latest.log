@@ -3327,3 +3327,4 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [02Jun2025 23:12:29.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Teleported Foxi_Castillo to 292.500000, 70.500000, 896.500000]
 [02Jun2025 23:20:10.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has reached the goal [Pray to the Goddess]
 [02Jun2025 23:21:35.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Alex's Mobs]
+[02Jun2025 23:34:47.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [The Andesite Age]

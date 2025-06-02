@@ -1422,3 +1422,6 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [02Jun2025 19:15:39.722] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Foxi_Castillo[/127.207.80.4:58479] logged in with entity id 910 at (339.8064269011639, 84.5625, 976.3213230978893)
 [02Jun2025 19:15:40.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo joined the game
 [02Jun2025 19:15:40.413] [Server thread/INFO] [Jade/]: Syncing config to Foxi_Castillo (eea1cc73-2ca4-3f52-b852-ce4cf1a5e48a)
+[02Jun2025 19:23:10.976] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5075ms or 101 ticks behind
+[02Jun2025 19:25:21.663] [Worker-Main-25/WARN] [com.craisinlord.integrated_api.IntegratedAPI/]: IntegratedAPI: Empty or nonexistent pool: idas:ancient_mines/ancient_mines_entrance2 which is being called from idas:ancient_mines/ancient_mines_entrance
+[02Jun2025 19:25:22.864] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3363ms or 67 ticks behind

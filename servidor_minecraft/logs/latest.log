@@ -3290,3 +3290,8 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [02Jun2025 22:02:33.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zeni has completed the challenge [Pillager Fortress]
 [02Jun2025 22:03:56.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Foxi_Castillo> no me escuchas?
 [02Jun2025 22:04:14.102] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule irons_spellbooks:wandering_magician_helmet/mythic/ABILITY/0.3!
+[02Jun2025 22:10:04.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Hearty Meal]
+[02Jun2025 22:15:08.968] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=349, y=81, z=967} BlockPos{x=348, y=81, z=968}
+[02Jun2025 22:15:11.565] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=354, y=80, z=967} BlockPos{x=354, y=80, z=968}
+[02Jun2025 22:16:00.515] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=357, y=80, z=966} BlockPos{x=357, y=78, z=966}
+[02Jun2025 22:17:38.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zeni has made the advancement [Hearty Meal]

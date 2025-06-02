@@ -336,6 +336,12 @@
     },
     "done": false
   },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-06-02 21:05:01 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/banana": {
     "criteria": {
       "banana": "2025-06-01 18:04:13 +0000"

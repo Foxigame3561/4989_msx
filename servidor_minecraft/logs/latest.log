@@ -1471,3 +1471,15 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [02Jun2025 20:54:08.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zeni was shot by Skeleton
 [02Jun2025 20:54:08.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zeni has made the advancement [Your First Grave]
 [02Jun2025 20:56:18.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Teleported zeni to Foxi_Castillo]
+[02Jun2025 21:02:29.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zeni has made the advancement [Mutual Aid]
+[02Jun2025 21:05:01.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Knowledge raises the soul]
+[02Jun2025 21:06:03.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2689ms or 53 ticks behind
+[02Jun2025 21:06:26.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zeni has made the advancement [Not Today, Thank You]
+[02Jun2025 21:06:29.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zeni has made the advancement [Knowledge of Death]
+[02Jun2025 21:06:29.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zeni has made the advancement [Ambush]
+[02Jun2025 21:08:17.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[02Jun2025 21:08:17.187] [Server thread/WARN] [tombstone/]: The death event of the player Foxi_Castillo was canceled by another mod
+[02Jun2025 21:08:17.233] [Server thread/INFO] [tombstone/]: The player Foxi_Castillo has successfully been saved
+[02Jun2025 21:08:22.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[02Jun2025 21:08:22.693] [Server thread/WARN] [tombstone/]: The death event of the player zeni was canceled by another mod
+[02Jun2025 21:08:22.729] [Server thread/INFO] [tombstone/]: The player zeni has successfully been saved

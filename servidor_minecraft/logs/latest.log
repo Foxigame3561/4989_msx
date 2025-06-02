@@ -3322,3 +3322,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [02Jun2025 22:57:49.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
 [02Jun2025 22:57:49.865] [Server thread/WARN] [tombstone/]: The death event of the player Foxi_Castillo was canceled by another mod
 [02Jun2025 22:57:49.874] [Server thread/INFO] [tombstone/]: The player Foxi_Castillo has successfully been saved
+[02Jun2025 23:03:30.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [A Strange Grave Dust]
+[02Jun2025 23:08:48.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Amateur Archaeologist]

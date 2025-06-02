@@ -3302,3 +3302,19 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [02Jun2025 22:25:44.827] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zeni lost connection: Disconnected
 [02Jun2025 22:25:44.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zeni left the game
 [02Jun2025 22:26:40.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [What a Deal!]
+[02Jun2025 22:34:23.805] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Tom'/61526, l='ServerLevel[world]', x=363.61, y=70.00, z=947.23] died: Tom was slain by Foxi_Castillo
+[02Jun2025 22:34:24.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has completed the challenge [He Wasn't So Strong]
+[02Jun2025 22:37:38.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxi_Castillo moved too quickly! 9.97519225724659,-1.2491870787446828,2.0815116382148062
+[02Jun2025 22:47:31.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [How'd You Get This?]
+[02Jun2025 22:49:31.665] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=242, y=61, z=896} BlockPos{x=240, y=62, z=897}
+[02Jun2025 22:49:31.714] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=242, y=61, z=896} BlockPos{x=240, y=62, z=897}
+[02Jun2025 22:49:31.750] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=242, y=61, z=896} BlockPos{x=240, y=62, z=897}
+[02Jun2025 22:49:31.796] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=241, y=62, z=896} BlockPos{x=240, y=62, z=897}
+[02Jun2025 22:49:40.274] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=244, y=61, z=895} BlockPos{x=244, y=60, z=896}
+[02Jun2025 22:49:40.299] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=244, y=61, z=895} BlockPos{x=244, y=60, z=896}
+[02Jun2025 22:49:40.352] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=244, y=61, z=895} BlockPos{x=244, y=60, z=896}
+[02Jun2025 22:49:40.414] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=244, y=61, z=895} BlockPos{x=244, y=60, z=896}
+[02Jun2025 22:49:40.459] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=244, y=61, z=895} BlockPos{x=244, y=60, z=896}
+[02Jun2025 22:49:40.518] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=244, y=61, z=895} BlockPos{x=244, y=60, z=896}
+[02Jun2025 22:49:40.563] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=244, y=61, z=895} BlockPos{x=244, y=60, z=896}
+[02Jun2025 22:49:40.613] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=244, y=61, z=895} BlockPos{x=244, y=60, z=896}

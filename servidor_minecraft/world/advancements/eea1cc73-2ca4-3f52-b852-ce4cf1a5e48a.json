@@ -130,8 +130,10 @@
       "minecraft:taiga": "2025-06-02 20:40:29 +0000",
       "minecraft:birch_forest": "2025-06-01 17:15:09 +0000",
       "minecraft:windswept_hills": "2025-06-01 17:27:21 +0000",
+      "minecraft:beach": "2025-06-02 22:40:11 +0000",
       "minecraft:sparse_jungle": "2025-05-29 18:30:06 +0000",
       "minecraft:river": "2025-05-29 18:32:55 +0000",
+      "minecraft:cold_ocean": "2025-06-02 22:41:52 +0000",
       "minecraft:forest": "2025-06-01 17:17:37 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-01 17:12:27 +0000",
       "minecraft:meadow": "2025-06-02 19:46:47 +0000",
@@ -193,6 +195,12 @@
       "earth": "2025-06-02 15:21:00 +0000"
     },
     "done": false
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2025-06-02 22:34:24 +0000"
+    },
+    "done": true
   },
   "croptopia:gather_all": {
     "criteria": {
@@ -314,6 +322,7 @@
       "minecraft:creeper": "2025-06-02 21:37:28 +0000",
       "minecraft:evoker": "2025-06-02 21:06:39 +0000",
       "minecraft:witch": "2025-06-01 17:43:02 +0000",
+      "minecraft:husk": "2025-06-02 22:34:23 +0000",
       "quark:wraith": "2025-06-02 20:36:39 +0000",
       "minecraft:silverfish": "2025-06-01 17:36:45 +0000",
       "minecraft:vex": "2025-06-02 21:25:35 +0000",
@@ -355,6 +364,7 @@
     "criteria": {
       "cooked_mutton": "2025-06-02 21:47:20 +0000",
       "cooked_beef": "2025-06-01 17:31:48 +0000",
+      "baked_potato": "2025-06-02 22:30:25 +0000",
       "apple": "2025-06-01 17:34:59 +0000",
       "golden_apple": "2025-06-01 18:02:35 +0000",
       "bread": "2025-06-02 20:44:23 +0000",
@@ -365,6 +375,12 @@
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2025-06-02 21:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-06-02 22:26:40 +0000"
     },
     "done": true
   },

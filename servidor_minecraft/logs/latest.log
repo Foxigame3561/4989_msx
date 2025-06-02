@@ -1425,3 +1425,4 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [02Jun2025 19:23:10.976] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5075ms or 101 ticks behind
 [02Jun2025 19:25:21.663] [Worker-Main-25/WARN] [com.craisinlord.integrated_api.IntegratedAPI/]: IntegratedAPI: Empty or nonexistent pool: idas:ancient_mines/ancient_mines_entrance2 which is being called from idas:ancient_mines/ancient_mines_entrance
 [02Jun2025 19:25:22.864] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3363ms or 67 ticks behind
+[02Jun2025 19:33:52.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Neighborhood Brawl]

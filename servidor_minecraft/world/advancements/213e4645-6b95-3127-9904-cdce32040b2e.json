@@ -11,15 +11,15 @@
     },
     "done": true
   },
-  "apotheosis:affix/rare": {
-    "criteria": {
-      "sword": "2025-06-02 20:24:54 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-06-02 20:08:32 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-06-02 20:24:54 +0000"
     },
     "done": true
   },
@@ -29,15 +29,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "quark:wraith": "2025-06-02 20:36:43 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2025-06-02 20:08:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "quark:wraith": "2025-06-02 20:36:43 +0000"
     },
     "done": true
   },
@@ -51,7 +51,9 @@
     "criteria": {
       "minecraft:pillager": "2025-06-02 21:06:29 +0000",
       "minecraft:skeleton": "2025-06-02 20:39:08 +0000",
-      "quark:wraith": "2025-06-02 20:36:43 +0000"
+      "minecraft:spider": "2025-06-02 21:36:42 +0000",
+      "quark:wraith": "2025-06-02 20:36:43 +0000",
+      "minecraft:zombie": "2025-06-02 21:36:58 +0000"
     },
     "done": false
   },
@@ -93,15 +95,19 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-06-02 21:45:43 +0000",
+      "cooked_mutton": "2025-06-02 21:42:41 +0000",
       "cooked_beef": "2025-06-02 20:16:09 +0000",
+      "porkchop": "2025-06-02 21:28:36 +0000",
       "apple": "2025-06-02 20:40:40 +0000",
-      "supplementaries:candy": "2025-06-02 21:03:15 +0000"
+      "supplementaries:candy": "2025-06-02 21:03:15 +0000",
+      "bread": "2025-06-02 21:29:43 +0000"
     },
     "done": false
   },
-  "tombstone:recipes/from_grave_dust": {
+  "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
-      "has_ingredient": "2025-06-02 21:04:44 +0000"
+      "requirement": "2025-06-02 21:28:25 +0000"
     },
     "done": true
   },
@@ -111,9 +117,9 @@
     },
     "done": false
   },
-  "tombstone:recipes/from_grave_key": {
+  "tombstone:recipes/from_grave_dust": {
     "criteria": {
-      "has_ingredient": "2025-06-02 20:57:47 +0000"
+      "has_ingredient": "2025-06-02 21:04:44 +0000"
     },
     "done": true
   },
@@ -129,15 +135,21 @@
     },
     "done": true
   },
-  "mca:recipes/misc/comb": {
+  "tombstone:recipes/from_grave_key": {
     "criteria": {
-      "has_item": "2025-06-02 20:25:01 +0000"
+      "has_ingredient": "2025-06-02 20:57:47 +0000"
     },
     "done": true
   },
-  "mca:recipes/misc/family_tree": {
+  "alexsmobs:alexsmobs/banana": {
     "criteria": {
-      "has_item": "2025-06-02 20:16:34 +0000"
+      "banana": "2025-06-02 21:42:29 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2025-06-02 20:25:01 +0000"
     },
     "done": true
   },
@@ -150,6 +162,12 @@
       "minecraft:plains": "2025-06-02 20:08:33 +0000"
     },
     "done": false
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-06-02 20:16:34 +0000"
+    },
+    "done": true
   },
   "mca:root": {
     "criteria": {
@@ -169,12 +187,6 @@
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-06-02 20:38:26 +0000"
-    },
-    "done": true
-  },
   "simplyswords:grant_book_on_first_join": {
     "criteria": {
       "tick": "2025-06-02 20:08:32 +0000"
@@ -187,9 +199,21 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-02 20:38:26 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-06-02 21:06:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-06-02 21:29:28 +0000"
     },
     "done": true
   },
@@ -199,15 +223,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/first_grave": {
-    "criteria": {
-      "coded_trigger": "2025-06-02 20:54:08 +0000"
-    },
-    "done": true
-  },
   "apotheosis:give_book": {
     "criteria": {
       "tick": "2025-06-02 20:08:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-06-02 20:54:08 +0000"
     },
     "done": true
   },
@@ -253,15 +277,21 @@
     },
     "done": true
   },
-  "minecraft:story/deflect_arrow": {
+  "apotheosis:affix/random": {
     "criteria": {
-      "deflected_projectile": "2025-06-02 21:06:26 +0000"
+      "sword": "2025-06-02 21:36:44 +0000"
     },
     "done": true
   },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-06-02 20:32:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-02 21:06:26 +0000"
     },
     "done": true
   },

@@ -1494,3 +1494,35 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [02Jun2025 21:18:43.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
 [02Jun2025 21:18:43.481] [Server thread/WARN] [tombstone/]: The death event of the player zeni was canceled by another mod
 [02Jun2025 21:18:43.496] [Server thread/INFO] [tombstone/]: The player zeni has successfully been saved
+[02Jun2025 21:19:43.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zeni was shot by Pillager
+[02Jun2025 21:22:21.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has reached the goal [Postmortal]
+[02Jun2025 21:22:21.384] [Server thread/INFO] [tombstone/]: The player Foxi_Castillo has successfully been saved
+[02Jun2025 21:22:35.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[02Jun2025 21:22:35.672] [Server thread/WARN] [tombstone/]: The death event of the player Foxi_Castillo was canceled by another mod
+[02Jun2025 21:22:35.681] [Server thread/INFO] [tombstone/]: The player Foxi_Castillo has successfully been saved
+[02Jun2025 21:23:05.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[02Jun2025 21:23:05.334] [Server thread/WARN] [tombstone/]: The death event of the player Foxi_Castillo was canceled by another mod
+[02Jun2025 21:23:05.344] [Server thread/INFO] [tombstone/]: The player Foxi_Castillo has successfully been saved
+[02Jun2025 21:23:11.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[02Jun2025 21:23:11.730] [Server thread/WARN] [tombstone/]: The death event of the player Foxi_Castillo was canceled by another mod
+[02Jun2025 21:23:11.742] [Server thread/INFO] [tombstone/]: The player Foxi_Castillo has successfully been saved
+[02Jun2025 21:24:08.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[02Jun2025 21:24:08.568] [Server thread/WARN] [tombstone/]: The death event of the player Foxi_Castillo was canceled by another mod
+[02Jun2025 21:24:08.579] [Server thread/INFO] [tombstone/]: The player Foxi_Castillo has successfully been saved
+[02Jun2025 21:24:20.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[02Jun2025 21:24:20.135] [Server thread/WARN] [tombstone/]: The death event of the player zeni was canceled by another mod
+[02Jun2025 21:24:20.150] [Server thread/INFO] [tombstone/]: The player zeni has successfully been saved
+[02Jun2025 21:25:11.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Applied effect Regeneration to Foxi_Castillo]
+[02Jun2025 21:25:24.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[02Jun2025 21:25:24.414] [Server thread/WARN] [tombstone/]: The death event of the player zeni was canceled by another mod
+[02Jun2025 21:25:24.432] [Server thread/INFO] [tombstone/]: The player zeni has successfully been saved
+[02Jun2025 21:25:47.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[02Jun2025 21:25:47.977] [Server thread/WARN] [tombstone/]: The death event of the player zeni was canceled by another mod
+[02Jun2025 21:25:48.006] [Server thread/INFO] [tombstone/]: The player zeni has successfully been saved
+[02Jun2025 21:26:34.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Ol' Betsy]
+[02Jun2025 21:26:38.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[02Jun2025 21:26:38.805] [Server thread/WARN] [tombstone/]: The death event of the player Foxi_Castillo was canceled by another mod
+[02Jun2025 21:26:38.856] [Server thread/INFO] [tombstone/]: The player Foxi_Castillo has successfully been saved
+[02Jun2025 21:27:04.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Applied effect Regeneration to Foxi_Castillo]
+[02Jun2025 21:27:54.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Voluntary Exile]
+[02Jun2025 21:28:25.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zeni has made the advancement [Tools of the Trade]

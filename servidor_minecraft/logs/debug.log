@@ -19798,3 +19798,107 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [02Jun2025 22:49:40.518] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=244, y=61, z=895} BlockPos{x=244, y=60, z=896}
 [02Jun2025 22:49:40.563] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=244, y=61, z=895} BlockPos{x=244, y=60, z=896}
 [02Jun2025 22:49:40.613] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=244, y=61, z=895} BlockPos{x=244, y=60, z=896}
+[02Jun2025 22:51:08.497] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 22:51:08.511] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 22:56:08.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 22:56:08.513] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 22:56:55.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Magery]
+[02Jun2025 22:57:11.863] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Jun2025 22:57:12.110] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Jun2025 22:57:12.360] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Jun2025 22:57:12.612] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Jun2025 22:57:12.860] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Jun2025 22:57:13.110] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Jun2025 22:57:13.362] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Jun2025 22:57:13.612] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Jun2025 22:57:13.861] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Jun2025 22:57:16.511] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:16.560] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:16.611] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:16.661] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:16.711] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:16.769] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:16.811] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:16.860] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:16.910] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:19.761] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:19.810] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:19.864] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:19.913] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:19.962] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:20.021] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:20.061] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:20.112] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:20.160] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:20.211] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:20.260] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:20.312] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:20.360] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:20.411] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:20.461] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:20.512] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:28.161] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:28.212] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:28.264] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:28.310] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:28.361] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:28.413] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:29.148] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:33.360] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:33.410] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:33.460] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:33.510] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:33.560] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:33.610] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:33.662] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:33.711] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:33.761] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:33.816] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:33.861] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:33.913] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:33.964] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:36.215] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jun2025 22:57:36.215] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[02Jun2025 22:57:37.010] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jun2025 22:57:37.011] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[02Jun2025 22:57:37.648] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jun2025 22:57:37.648] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[02Jun2025 22:57:38.838] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jun2025 22:57:38.838] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[02Jun2025 22:57:38.964] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jun2025 22:57:38.964] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[02Jun2025 22:57:40.412] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jun2025 22:57:40.412] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[02Jun2025 22:57:41.113] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jun2025 22:57:41.113] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[02Jun2025 22:57:41.762] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jun2025 22:57:41.762] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[02Jun2025 22:57:42.417] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jun2025 22:57:42.417] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[02Jun2025 22:57:43.112] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jun2025 22:57:43.112] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[02Jun2025 22:57:44.266] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jun2025 22:57:44.266] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[02Jun2025 22:57:44.911] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jun2025 22:57:44.911] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[02Jun2025 22:57:45.612] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jun2025 22:57:45.612] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[02Jun2025 22:57:49.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[02Jun2025 22:57:49.865] [Server thread/WARN] [tombstone/]: The death event of the player Foxi_Castillo was canceled by another mod
+[02Jun2025 22:57:49.874] [Server thread/INFO] [tombstone/]: The player Foxi_Castillo has successfully been saved
+[02Jun2025 22:57:59.262] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:59.311] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:59.361] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:59.414] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:59.462] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 22:57:59.512] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[02Jun2025 23:00:18.267] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jun2025 23:00:18.267] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[02Jun2025 23:00:20.061] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jun2025 23:00:20.061] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[02Jun2025 23:00:21.161] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jun2025 23:00:21.161] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[02Jun2025 23:00:22.661] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jun2025 23:00:22.661] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[02Jun2025 23:00:23.311] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02Jun2025 23:00:23.311] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource

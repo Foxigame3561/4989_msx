@@ -1483,3 +1483,14 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [02Jun2025 21:08:22.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
 [02Jun2025 21:08:22.693] [Server thread/WARN] [tombstone/]: The death event of the player zeni was canceled by another mod
 [02Jun2025 21:08:22.729] [Server thread/INFO] [tombstone/]: The player zeni has successfully been saved
+[02Jun2025 21:08:41.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo was doomed to fall by Archevoker
+[02Jun2025 21:09:22.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zeni went off with a bang thanks to Archevoker
+[02Jun2025 21:10:44.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zeni has reached the goal [Here They Come]
+[02Jun2025 21:11:43.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[02Jun2025 21:11:43.126] [Server thread/WARN] [tombstone/]: The death event of the player Foxi_Castillo was canceled by another mod
+[02Jun2025 21:11:43.134] [Server thread/INFO] [tombstone/]: The player Foxi_Castillo has successfully been saved
+[02Jun2025 21:12:43.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo was shot by Skeleton
+[02Jun2025 21:18:12.163] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@54f9ff07
+[02Jun2025 21:18:43.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[02Jun2025 21:18:43.481] [Server thread/WARN] [tombstone/]: The death event of the player zeni was canceled by another mod
+[02Jun2025 21:18:43.496] [Server thread/INFO] [tombstone/]: The player zeni has successfully been saved

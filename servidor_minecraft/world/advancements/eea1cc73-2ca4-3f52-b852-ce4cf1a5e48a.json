@@ -511,6 +511,12 @@
     },
     "done": false
   },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-06-02 23:20:10 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-05-29 18:30:04 +0000"
@@ -618,6 +624,12 @@
   "croptopia:eatcrafted": {
     "criteria": {
       "eat_crafted": "2025-06-02 22:10:04 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-06-02 23:21:35 +0000"
     },
     "done": true
   },

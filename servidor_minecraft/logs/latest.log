@@ -3270,3 +3270,11 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [02Jun2025 21:46:20.926] [Server thread/INFO] [tombstone/]: The player Foxi_Castillo has successfully been saved
 [02Jun2025 21:47:57.473] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=338, y=85, z=985} BlockPos{x=294, y=69, z=877}
 [02Jun2025 21:47:57.814] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=338, y=85, z=985} BlockPos{x=294, y=69, z=877}
+[02Jun2025 21:52:47.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zeni has made the advancement [Ashes 'n Bones]
+[02Jun2025 21:53:22.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zeni has made the advancement [A Strange Grave Dust]
+[02Jun2025 21:53:30.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[02Jun2025 21:53:30.365] [Server thread/WARN] [tombstone/]: The death event of the player Foxi_Castillo was canceled by another mod
+[02Jun2025 21:53:30.374] [Server thread/INFO] [tombstone/]: The player Foxi_Castillo has successfully been saved
+[02Jun2025 21:57:29.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[02Jun2025 21:57:29.617] [Server thread/WARN] [tombstone/]: The death event of the player Foxi_Castillo was canceled by another mod
+[02Jun2025 21:57:29.630] [Server thread/INFO] [tombstone/]: The player Foxi_Castillo has successfully been saved

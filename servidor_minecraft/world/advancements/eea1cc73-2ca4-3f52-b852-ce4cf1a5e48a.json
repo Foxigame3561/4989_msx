@@ -196,6 +196,7 @@
   },
   "croptopia:gather_all": {
     "criteria": {
+      "bellpepper_seed": "2025-06-02 21:55:38 +0000",
       "chile_pepper_seed": "2025-06-02 15:15:34 +0000"
     },
     "done": false
@@ -250,7 +251,8 @@
   },
   "croptopia:gather_plains": {
     "criteria": {
-      "chile_pepper_seed": "2025-06-02 15:15:34 +0000"
+      "chile_pepper_seed": "2025-06-02 15:15:34 +0000",
+      "bellpepper_seed": "2025-06-02 21:55:38 +0000"
     },
     "done": false
   },
@@ -345,6 +347,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-06-02 21:47:20 +0000",
       "cooked_beef": "2025-06-01 17:31:48 +0000",
       "apple": "2025-06-01 17:34:59 +0000",
       "golden_apple": "2025-06-01 18:02:35 +0000",

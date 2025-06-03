@@ -1461,3 +1461,4 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [03Jun2025 18:00:02.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxi_Castillo moved too quickly! -8.594238248970683,-0.243240711822736,-5.620290518084516
 [03Jun2025 18:00:10.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxi_Castillo moved too quickly! -9.357375553962186,-1.127890238205481,-3.60552006862099
 [03Jun2025 18:06:48.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Sugar... In Wator...]
+[03Jun2025 18:09:37.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxi_Castillo moved too quickly! -2.317371845779583,-9.11263837636892,4.510522746458719

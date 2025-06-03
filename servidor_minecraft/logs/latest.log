@@ -1472,3 +1472,10 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [03Jun2025 18:42:38.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Best Friends Forever]
 [03Jun2025 18:56:23.275] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxi_Castillo lost connection: Disconnected
 [03Jun2025 18:56:23.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo left the game
+[03Jun2025 19:00:45.910] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@43d2b2e4
+[03Jun2025 19:00:45.966] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[03Jun2025 19:00:45.980] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[03Jun2025 19:00:45.982] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Foxi_Castillo[/127.207.80.4:38405] logged in with entity id 18467 at (333.8631460996056, 84.0, 982.0274772625273)
+[03Jun2025 19:00:46.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo joined the game
+[03Jun2025 19:00:46.229] [Server thread/INFO] [Jade/]: Syncing config to Foxi_Castillo (eea1cc73-2ca4-3f52-b852-ce4cf1a5e48a)
+[03Jun2025 19:07:47.309] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Captain Derrick the Jerk'/19292, l='ServerLevel[world]', x=281.78, y=70.00, z=952.49] died: Captain Derrick the Jerk was electrocuted by Foxi_Castillo

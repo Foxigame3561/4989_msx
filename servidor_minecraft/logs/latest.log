@@ -1457,3 +1457,7 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [03Jun2025 17:46:44.143] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=519, y=64, z=1036} BlockPos{x=519, y=62, z=1036}
 [03Jun2025 17:47:04.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxi_Castillo moved too quickly! -9.766306050967785,0.0,2.927123667586102
 [03Jun2025 17:47:04.736] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2339ms or 46 ticks behind
+[03Jun2025 17:50:28.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Bonk!]
+[03Jun2025 18:00:02.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxi_Castillo moved too quickly! -8.594238248970683,-0.243240711822736,-5.620290518084516
+[03Jun2025 18:00:10.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxi_Castillo moved too quickly! -9.357375553962186,-1.127890238205481,-3.60552006862099
+[03Jun2025 18:06:48.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Sugar... In Wator...]

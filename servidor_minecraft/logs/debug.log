@@ -10599,3 +10599,19 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [03Jun2025 17:47:04.736] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2339ms or 46 ticks behind
 [03Jun2025 17:48:11.866] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Jun2025 17:48:11.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jun2025 17:50:28.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Bonk!]
+[03Jun2025 17:53:11.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jun2025 17:53:11.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jun2025 17:53:13.426] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jun2025 17:53:13.427] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Jun2025 17:53:15.865] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jun2025 17:53:15.865] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Jun2025 17:58:11.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jun2025 17:58:11.836] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jun2025 18:00:02.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxi_Castillo moved too quickly! -8.594238248970683,-0.243240711822736,-5.620290518084516
+[03Jun2025 18:00:10.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxi_Castillo moved too quickly! -9.357375553962186,-1.127890238205481,-3.60552006862099
+[03Jun2025 18:03:11.818] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jun2025 18:03:11.842] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jun2025 18:06:48.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Sugar... In Wator...]
+[03Jun2025 18:08:11.813] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jun2025 18:08:11.833] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

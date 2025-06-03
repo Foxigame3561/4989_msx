@@ -127,6 +127,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-06-03 00:14:13 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:saber": {
     "criteria": {
       "has_saber": "2025-06-02 19:52:45 +0000"

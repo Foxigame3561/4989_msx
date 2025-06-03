@@ -20763,3 +20763,39 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [03Jun2025 00:01:03.610] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
 [03Jun2025 00:01:08.498] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Jun2025 00:01:08.511] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jun2025 00:02:45.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Teleported Foxi_Castillo to 399.500000, 64.500000, 797.500000]
+[03Jun2025 00:02:56.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxi_Castillo moved too quickly! 2.385145596460802,-1.2277792520400368,-9.737284708888637
+[03Jun2025 00:04:35.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Teleported Foxi_Castillo to 245.500000, 67.500000, 913.500000]
+[03Jun2025 00:06:08.512] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jun2025 00:06:08.531] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jun2025 00:09:52.462] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jun2025 00:09:52.463] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Jun2025 00:09:53.514] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jun2025 00:09:53.514] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Jun2025 00:09:54.199] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jun2025 00:09:54.199] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Jun2025 00:09:55.099] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jun2025 00:09:55.099] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Jun2025 00:09:56.063] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jun2025 00:09:56.063] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Jun2025 00:10:10.850] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jun2025 00:10:10.850] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Jun2025 00:10:11.746] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jun2025 00:10:11.746] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Jun2025 00:10:12.464] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jun2025 00:10:12.464] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Jun2025 00:10:13.214] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jun2025 00:10:13.214] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Jun2025 00:10:55.713] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jun2025 00:10:55.714] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Jun2025 00:10:56.442] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jun2025 00:10:56.443] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Jun2025 00:10:57.111] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jun2025 00:10:57.111] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Jun2025 00:10:57.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has reached the goal [Bone Crusher]
+[03Jun2025 00:11:08.608] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jun2025 00:11:08.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jun2025 00:11:13.763] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jun2025 00:11:13.763] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[03Jun2025 00:11:15.162] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Jun2025 00:11:15.162] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource

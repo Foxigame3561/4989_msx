@@ -30,6 +30,13 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2025-06-03 18:23:21 +0000",
+      "wheat": "2025-06-03 18:23:26 +0000"
+    },
+    "done": false
+  },
   "dungeons_arise:find_heavenly_challenger": {
     "criteria": {
       "location0": "2025-05-29 18:32:04 +0000"
@@ -504,6 +511,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-05-29 19:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-06-03 18:23:26 +0000"
     },
     "done": true
   },

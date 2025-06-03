@@ -1462,3 +1462,9 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [03Jun2025 18:00:10.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxi_Castillo moved too quickly! -9.357375553962186,-1.127890238205481,-3.60552006862099
 [03Jun2025 18:06:48.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Sugar... In Wator...]
 [03Jun2025 18:09:37.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxi_Castillo moved too quickly! -2.317371845779583,-9.11263837636892,4.510522746458719
+[03Jun2025 18:23:26.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [A Seedy Place]
+[03Jun2025 18:27:06.158] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@fe0ef8
+[03Jun2025 18:32:44.972] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/12362, l='ServerLevel[world]', x=355.70, y=83.00, z=972.37] died: Honeyed Archer was slain by Foxi_Castillo
+[03Jun2025 18:33:42.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Gave 1    [Honey Bottle] to Foxi_Castillo]
+[03Jun2025 18:37:27.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxi_Castillo moved too quickly! 0.11811095039155362,-10.138187138853894,0.6975443240814911
+[03Jun2025 18:37:33.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxi_Castillo moved too quickly! 0.08605801870680807,-10.856985064384547,-0.302933974438929

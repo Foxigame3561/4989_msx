@@ -1470,3 +1470,5 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [03Jun2025 18:37:33.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxi_Castillo moved too quickly! 0.08605801870680807,-10.856985064384547,-0.302933974438929
 [03Jun2025 18:42:38.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [You da Bomby]
 [03Jun2025 18:42:38.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Best Friends Forever]
+[03Jun2025 18:56:23.275] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxi_Castillo lost connection: Disconnected
+[03Jun2025 18:56:23.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo left the game

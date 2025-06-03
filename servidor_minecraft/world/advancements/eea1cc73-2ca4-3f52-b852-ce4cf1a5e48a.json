@@ -371,6 +371,12 @@
     },
     "done": true
   },
+  "mutantmonsters:you_da_bomby": {
+    "criteria": {
+      "tamed_creeper_minion": "2025-06-03 18:42:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:skeleton": "2025-05-29 19:00:59 +0000"
@@ -736,6 +742,12 @@
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-06-01 17:34:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-03 18:42:38 +0000"
     },
     "done": true
   },

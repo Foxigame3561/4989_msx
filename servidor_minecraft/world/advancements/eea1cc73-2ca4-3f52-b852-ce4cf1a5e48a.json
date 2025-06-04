@@ -348,6 +348,12 @@
     },
     "done": true
   },
+  "create:contraption_actors": {
+    "criteria": {
+      "0": "2025-06-04 01:35:35 +0000"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-06-02 23:08:48 +0000"
@@ -363,6 +369,12 @@
   "quark:get_bottled_cloud": {
     "criteria": {
       "get_bottled_cloud": "2025-06-01 17:59:51 +0000"
+    },
+    "done": true
+  },
+  "create:windmill": {
+    "criteria": {
+      "0": "2025-06-04 01:35:35 +0000"
     },
     "done": true
   },

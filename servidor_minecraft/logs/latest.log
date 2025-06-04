@@ -1728,3 +1728,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23251!/:?]
 	at java.lang.Thread.run(Thread.java:840) [?:?]
+[03Jun2025 23:53:53.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Made RaideX_x a server operator]
+[03Jun2025 23:54:02.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Foxi_Castillo> esto /mca editor
+[03Jun2025 23:56:36.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RaideX_x> mca editor

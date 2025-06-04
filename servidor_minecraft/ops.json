@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "f84970a8-ead1-3bfd-90d5-72f43c1eea23",
+    "name": "RaideX_x",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "eea1cc73-2ca4-3f52-b852-ce4cf1a5e48a",
     "name": "Foxi_Castillo",
     "level": 4,

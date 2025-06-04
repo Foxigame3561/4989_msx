@@ -55,3 +55,5 @@
 [04Jun2025 01:11:00.869] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RaideX_x moved too quickly! 0.022757666466757698,-9.550801356073393,4.263609001740974
 [04Jun2025 01:12:00.167] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RaideX_x lost connection: Disconnected
 [04Jun2025 01:12:00.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RaideX_x left the game
+[04Jun2025 01:14:51.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2589ms or 51 ticks behind
+[04Jun2025 01:15:35.655] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3817b8d6

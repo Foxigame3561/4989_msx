@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-04 00:29:58 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/building_blocks/headstones": {
     "criteria": {
       "has_the_upright_recipe": "2025-06-03 23:52:04 +0000"
@@ -26,6 +32,12 @@
   "simplyswords:grant_book_on_first_join": {
     "criteria": {
       "tick": "2025-06-03 23:52:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-04 00:29:55 +0000"
     },
     "done": true
   },
@@ -68,6 +80,42 @@
   "tconstruct:internal/starting_book": {
     "criteria": {
       "tick": "2025-06-03 23:52:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-06-04 00:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-06-04 00:29:55 +0000"
+    },
+    "done": false
+  },
+  "mca:recipes/misc/whistle": {
+    "criteria": {
+      "has_item": "2025-06-04 00:30:59 +0000"
+    },
+    "done": true
+  },
+  "quark:get_all_blossom_saplings": {
+    "criteria": {
+      "yellow": "2025-06-04 00:27:36 +0000"
+    },
+    "done": false
+  },
+  "mca:recipes/misc/needle_and_thread": {
+    "criteria": {
+      "has_item": "2025-06-04 00:30:59 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2025-06-04 00:30:59 +0000"
     },
     "done": true
   },

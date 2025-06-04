@@ -53,9 +53,16 @@
     },
     "done": true
   },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-06-04 00:57:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-06-04 00:29:55 +0000"
+      "bread": "2025-06-04 00:29:55 +0000",
+      "carrot": "2025-06-04 00:58:19 +0000"
     },
     "done": false
   },
@@ -126,6 +133,12 @@
     },
     "done": true
   },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2025-06-04 01:01:51 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2025-06-04 00:32:00 +0000"
@@ -159,6 +172,12 @@
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2025-06-04 00:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-06-04 00:57:42 +0000"
     },
     "done": true
   },

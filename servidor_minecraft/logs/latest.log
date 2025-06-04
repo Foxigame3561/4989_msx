@@ -20,3 +20,23 @@
 [04Jun2025 00:49:38.423] [Server thread/INFO] [Jade/]: Syncing config to RaideX_x (f84970a8-ead1-3bfd-90d5-72f43c1eea23)
 [04Jun2025 00:51:23.413] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RaideX_x lost connection: Disconnected
 [04Jun2025 00:51:23.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RaideX_x left the game
+[04Jun2025 00:54:42.860] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6db397c8
+[04Jun2025 00:54:42.883] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[04Jun2025 00:54:42.889] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[04Jun2025 00:54:42.890] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RaideX_x[/127.5.211.60:59061] logged in with entity id 13648 at (23.19795470399818, 67.0, 949.8754167981133)
+[04Jun2025 00:54:42.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RaideX_x joined the game
+[04Jun2025 00:54:43.000] [Server thread/INFO] [Jade/]: Syncing config to RaideX_x (f84970a8-ead1-3bfd-90d5-72f43c1eea23)
+[04Jun2025 00:54:59.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Made RaideX_x no longer a server operator]
+[04Jun2025 01:01:51.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RaideX_x has reached the goal [Half a flight]
+[04Jun2025 01:02:23.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxi_Castillo moved too quickly! 2.89396320809767,-10.53578553400719,-0.7416530536406754
+[04Jun2025 01:02:26.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxi_Castillo was kicked for floating too long!
+[04Jun2025 01:02:26.012] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxi_Castillo lost connection: Flying is not enabled on this server
+[04Jun2025 01:02:26.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo left the game
+[04Jun2025 01:02:26.066] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Jun2025 01:02:43.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RaideX_x has made the advancement [Monster Hunter]
+[04Jun2025 01:02:47.488] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@409efd26
+[04Jun2025 01:02:47.514] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[04Jun2025 01:02:47.523] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[04Jun2025 01:02:47.526] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Foxi_Castillo[/127.207.80.4:42891] logged in with entity id 16372 at (34.41725464225901, 92.27968753657944, 913.2149591349354)
+[04Jun2025 01:02:47.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo joined the game
+[04Jun2025 01:02:47.772] [Server thread/INFO] [Jade/]: Syncing config to Foxi_Castillo (eea1cc73-2ca4-3f52-b852-ce4cf1a5e48a)

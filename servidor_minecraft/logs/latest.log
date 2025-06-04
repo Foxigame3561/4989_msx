@@ -12,3 +12,11 @@
 [04Jun2025 00:36:44.992] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RaideX_x lost connection: Disconnected
 [04Jun2025 00:36:44.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RaideX_x left the game
 [04Jun2025 00:40:28.401] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2108ms or 42 ticks behind
+[04Jun2025 00:49:38.264] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2c148d99
+[04Jun2025 00:49:38.313] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[04Jun2025 00:49:38.319] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[04Jun2025 00:49:38.320] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RaideX_x[/127.5.211.60:37989] logged in with entity id 12411 at (24.250743165857646, 67.0, 948.621698904877)
+[04Jun2025 00:49:38.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RaideX_x joined the game
+[04Jun2025 00:49:38.423] [Server thread/INFO] [Jade/]: Syncing config to RaideX_x (f84970a8-ead1-3bfd-90d5-72f43c1eea23)
+[04Jun2025 00:51:23.413] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RaideX_x lost connection: Disconnected
+[04Jun2025 00:51:23.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RaideX_x left the game

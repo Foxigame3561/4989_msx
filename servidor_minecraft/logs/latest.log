@@ -40,3 +40,18 @@
 [04Jun2025 01:02:47.526] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Foxi_Castillo[/127.207.80.4:42891] logged in with entity id 16372 at (34.41725464225901, 92.27968753657944, 913.2149591349354)
 [04Jun2025 01:02:47.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo joined the game
 [04Jun2025 01:02:47.772] [Server thread/INFO] [Jade/]: Syncing config to Foxi_Castillo (eea1cc73-2ca4-3f52-b852-ce4cf1a5e48a)
+[04Jun2025 01:04:33.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[04Jun2025 01:04:33.081] [Server thread/WARN] [tombstone/]: The death event of the player RaideX_x was canceled by another mod
+[04Jun2025 01:04:33.132] [Server thread/INFO] [tombstone/]: The player RaideX_x has successfully been saved
+[04Jun2025 01:04:38.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RaideX_x was electrocuted by Foxi_Castillo
+[04Jun2025 01:04:38.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RaideX_x has made the advancement [Your First Grave]
+[04Jun2025 01:04:38.934] [Server thread/INFO] [tombstone/]: The player RaideX_x has successfully been saved
+[04Jun2025 01:06:21.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2190ms or 43 ticks behind
+[04Jun2025 01:07:17.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxi_Castillo moved wrongly!
+[04Jun2025 01:08:10.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[04Jun2025 01:08:10.802] [Server thread/WARN] [tombstone/]: The death event of the player Foxi_Castillo was canceled by another mod
+[04Jun2025 01:08:10.850] [Server thread/INFO] [tombstone/]: The player Foxi_Castillo has successfully been saved
+[04Jun2025 01:08:57.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo was shot by Mutant Skeleton
+[04Jun2025 01:11:00.869] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RaideX_x moved too quickly! 0.022757666466757698,-9.550801356073393,4.263609001740974
+[04Jun2025 01:12:00.167] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RaideX_x lost connection: Disconnected
+[04Jun2025 01:12:00.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RaideX_x left the game

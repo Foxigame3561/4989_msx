@@ -2,3 +2,13 @@
 [04Jun2025 00:30:59.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RaideX_x has made the advancement [Acquire Hardware]
 [04Jun2025 00:32:00.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RaideX_x has made the advancement [Alex's Mobs]
 [04Jun2025 00:33:11.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RaideX_x has made the advancement [Isn't It Iron Pick]
+[04Jun2025 00:34:00.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RaideX_x has made the advancement [People Are Strange]
+[04Jun2025 00:34:00.622] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[04Jun2025 00:34:08.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxi_Castillo moved too quickly! -6.055311944622034,-1.044812420399012,-7.963453893692872
+[04Jun2025 00:34:08.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RaideX_x moved too quickly! -6.116362386241406,0.5445322604149823,-7.975227481221509
+[04Jun2025 00:34:14.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxi_Castillo moved too quickly! -9.396088579662312,-1.2491870787446828,-3.7083288314057654
+[04Jun2025 00:34:31.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RaideX_x has completed the challenge [Pillager Fortress]
+[04Jun2025 00:34:57.779] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3386ms or 67 ticks behind
+[04Jun2025 00:36:44.992] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RaideX_x lost connection: Disconnected
+[04Jun2025 00:36:44.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RaideX_x left the game
+[04Jun2025 00:40:28.401] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2108ms or 42 ticks behind

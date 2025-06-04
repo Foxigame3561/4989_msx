@@ -5,12 +5,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-06-04 00:29:58 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/building_blocks/headstones": {
     "criteria": {
       "has_the_upright_recipe": "2025-06-03 23:52:04 +0000"
@@ -20,24 +14,6 @@
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-06-03 23:52:04 +0000"
-    },
-    "done": true
-  },
-  "create:root": {
-    "criteria": {
-      "0": "2025-06-03 23:52:04 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:grant_book_on_first_join": {
-    "criteria": {
-      "tick": "2025-06-03 23:52:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-06-04 00:29:55 +0000"
     },
     "done": true
   },
@@ -54,12 +30,6 @@
     "done": true
   },
   "irons_spellbooks:grant_patchouli": {
-    "criteria": {
-      "tick": "2025-06-03 23:52:04 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:give_book": {
     "criteria": {
       "tick": "2025-06-03 23:52:04 +0000"
     },
@@ -83,23 +53,11 @@
     },
     "done": true
   },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2025-06-04 00:30:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-06-04 00:29:55 +0000"
     },
     "done": false
-  },
-  "mca:recipes/misc/whistle": {
-    "criteria": {
-      "has_item": "2025-06-04 00:30:59 +0000"
-    },
-    "done": true
   },
   "quark:get_all_blossom_saplings": {
     "criteria": {
@@ -113,7 +71,92 @@
     },
     "done": true
   },
+  "idas:pillager_fortress": {
+    "criteria": {
+      "in_pillager_fortress": "2025-06-04 00:34:31 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2025-06-04 00:30:59 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2025-06-04 00:34:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-06-04 00:33:20 +0000",
+      "minecraft:plains": "2025-06-03 23:52:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-04 00:29:58 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-06-03 23:52:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-04 00:33:11 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-06-03 23:52:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-04 00:29:55 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-06-04 00:32:00 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:give_book": {
+    "criteria": {
+      "tick": "2025-06-03 23:52:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-06-04 00:32:30 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-06-04 00:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-06-04 00:30:59 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/whistle": {
     "criteria": {
       "has_item": "2025-06-04 00:30:59 +0000"
     },
@@ -130,12 +173,6 @@
       "rainbowcoal": "2025-06-03 23:52:04 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:plains": "2025-06-03 23:52:06 +0000"
-    },
-    "done": false
   },
   "DataVersion": 3120
 }

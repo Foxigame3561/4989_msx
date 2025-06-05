@@ -1449,3 +1449,6 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [05Jun2025 02:26:41.501] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Foxi_Castillo[/127.207.80.4:44319] logged in with entity id 10999 at (110.05249022474041, 85.0, -749.6999999880791)
 [05Jun2025 02:26:41.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo joined the game
 [05Jun2025 02:26:41.634] [Server thread/INFO] [Jade/]: Syncing config to Foxi_Castillo (eea1cc73-2ca4-3f52-b852-ce4cf1a5e48a)
+[05Jun2025 02:28:04.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[05Jun2025 02:28:04.891] [Server thread/WARN] [tombstone/]: The death event of the player Foxi_Castillo was canceled by another mod
+[05Jun2025 02:28:04.903] [Server thread/INFO] [tombstone/]: The player Foxi_Castillo has successfully been saved

@@ -1438,3 +1438,8 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [05Jun2025 00:54:41.294] [Server thread/INFO] [tombstone/]: The player Foxi_Castillo has successfully been saved
 [05Jun2025 00:55:11.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Set the time to 1000]
 [05Jun2025 00:55:51.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Set own game mode to Creative Mode]
+[05Jun2025 00:56:42.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Applied effect Strength to Foxi_Castillo]
+[05Jun2025 00:56:49.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Set own game mode to Survival Mode]
+[05Jun2025 00:58:13.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Rusted Root]
+[05Jun2025 00:59:21.088] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxi_Castillo lost connection: Disconnected
+[05Jun2025 00:59:21.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo left the game

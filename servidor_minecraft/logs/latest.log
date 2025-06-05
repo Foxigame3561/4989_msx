@@ -1453,3 +1453,7 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [05Jun2025 02:28:04.891] [Server thread/WARN] [tombstone/]: The death event of the player Foxi_Castillo was canceled by another mod
 [05Jun2025 02:28:04.903] [Server thread/INFO] [tombstone/]: The player Foxi_Castillo has successfully been saved
 [05Jun2025 02:41:49.246] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/13565, l='ServerLevel[world]', x=513.65, y=66.63, z=1089.69] died: Honeyed Archer burned to death
+[05Jun2025 02:49:39.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5532ms or 110 ticks behind
+[05Jun2025 02:56:03.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Killed 98 entities]
+[05Jun2025 03:05:02.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Killed 71 entities]
+[05Jun2025 03:06:07.906] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/21466, l='ServerLevel[world]', x=543.90, y=68.00, z=1170.98] died: Honeyed Archer was slain by Foxi_Castillo

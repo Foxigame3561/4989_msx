@@ -1443,3 +1443,9 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [05Jun2025 00:58:13.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Rusted Root]
 [05Jun2025 00:59:21.088] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxi_Castillo lost connection: Disconnected
 [05Jun2025 00:59:21.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo left the game
+[05Jun2025 02:26:41.438] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3d748dda
+[05Jun2025 02:26:41.491] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[05Jun2025 02:26:41.499] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[05Jun2025 02:26:41.501] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Foxi_Castillo[/127.207.80.4:44319] logged in with entity id 10999 at (110.05249022474041, 85.0, -749.6999999880791)
+[05Jun2025 02:26:41.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo joined the game
+[05Jun2025 02:26:41.634] [Server thread/INFO] [Jade/]: Syncing config to Foxi_Castillo (eea1cc73-2ca4-3f52-b852-ce4cf1a5e48a)

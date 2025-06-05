@@ -1452,3 +1452,4 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [05Jun2025 02:28:04.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
 [05Jun2025 02:28:04.891] [Server thread/WARN] [tombstone/]: The death event of the player Foxi_Castillo was canceled by another mod
 [05Jun2025 02:28:04.903] [Server thread/INFO] [tombstone/]: The player Foxi_Castillo has successfully been saved
+[05Jun2025 02:41:49.246] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/13565, l='ServerLevel[world]', x=513.65, y=66.63, z=1089.69] died: Honeyed Archer burned to death

@@ -9783,3 +9783,704 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [29Jun2025 20:16:41.551] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [29Jun2025 20:16:44.701] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [29Jun2025 20:16:45.250] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:45.300] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:45.349] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:45.405] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:45.448] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:45.503] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:45.547] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:45.606] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:45.649] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:45.709] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:45.754] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:45.809] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:45.849] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:45.912] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:45.949] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:46.005] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:46.048] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:46.100] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:46.151] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:46.203] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:46.248] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:46.303] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:46.349] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:46.400] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:46.450] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:46.503] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:46.550] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:46.600] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:46.648] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:46.700] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:46.703] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:16:46.750] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:46.799] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:46.854] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:46.907] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:46.949] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:46.999] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:47.070] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:47.115] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:47.150] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:47.223] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:47.258] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:47.297] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:47.351] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:47.399] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:47.449] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:47.505] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:47.551] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:47.598] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:47.650] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:47.700] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:47.755] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:47.813] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:47.849] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:47.899] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:47.952] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:48.008] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:48.055] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:48.105] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:48.153] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:48.209] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:48.256] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:48.302] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:48.361] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:48.417] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:48.466] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:48.524] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:48.549] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:48.601] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:48.651] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:48.731] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:48.747] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:48.801] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:48.851] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:48.910] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:48.958] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:49.011] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:49.051] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:49.118] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:49.162] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:49.218] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:49.253] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:49.317] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:49.320] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:16:49.347] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:49.398] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:49.447] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:49.543] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:49.572] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:49.598] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:49.649] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:49.699] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:49.755] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:49.797] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:49.848] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:49.905] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:49.928] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:16:49.948] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:49.998] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:50.048] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:50.098] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:50.155] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:50.219] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:50.249] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:50.299] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:50.348] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:50.400] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:50.447] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:50.504] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:50.547] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:50.598] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:50.756] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:51.206] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:16:51.250] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:51.299] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:51.349] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:51.401] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:51.448] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:51.503] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:51.555] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:51.615] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:51.650] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:51.705] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:51.749] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:51.799] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:51.802] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:16:51.858] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:51.900] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:51.949] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:52.005] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:52.049] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:52.099] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:52.150] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:16:53.105] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:16:53.108] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MiniGemGolemEntity['Manastone Golem (Level: 13)'/1851, l='ServerLevel[world]', x=-212829.08, y=51.04, z=135633.58] died: Manastone Golem (Level: 13) was slain by Foxi_Castillo
+[29Jun2025 20:17:13.410] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:17:13.454] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:17:13.511] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:17:13.562] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:17:14.011] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:17:14.050] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:17:14.101] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:17:14.151] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:17:22.966] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:17:23.705] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:17:24.248] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinClubEntity['Goblin (Level: 14)'/1846, l='ServerLevel[world]', x=-212836.31, y=50.00, z=135604.69] died: Goblin (Level: 14) was slain by Foxi_Castillo
+[29Jun2025 20:17:24.384] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:17:45.627] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:17:45.746] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinClubEntity['Goblin (Level: 19)'/1828, l='ServerLevel[world]', x=-212843.30, y=63.34, z=135634.30] died: Goblin (Level: 19) was slain by Foxi_Castillo
+[29Jun2025 20:17:55.896] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:17:55.898] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:17:56.022] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10233ms or 204 ticks behind
+[29Jun2025 20:17:56.070] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:17:56.075] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:17:56.078] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:18:03.503] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:18:03.554] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinClubEntity['Goblin (Level: 18)'/1840, l='ServerLevel[world]', x=-212830.28, y=70.34, z=135631.38] died: Goblin (Level: 18) was slain by Foxi_Castillo
+[29Jun2025 20:18:05.153] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:18:05.155] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:18:05.556] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SteelFangWolfEntity['Steel Fang Lycan (Level: 15)'/1854, l='ServerLevel[world]', x=-212829.90, y=70.41, z=135631.74] died: Steel Fang Lycan (Level: 15) was slain by Foxi_Castillo
+[29Jun2025 20:18:05.583] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:18:07.959] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:18:09.751] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:18:10.350] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:18:11.050] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:18:11.104] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity StoneGolemEntity['Stone Golem (Level: 16)'/1839, l='ServerLevel[world]', x=-212820.96, y=69.77, z=135624.60] died: Stone Golem (Level: 16) was slain by Foxi_Castillo
+[29Jun2025 20:18:14.952] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:18:14.957] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinClubEntity['Goblin (Level: 19)'/1827, l='ServerLevel[world]', x=-212821.48, y=66.23, z=135625.50] died: Goblin (Level: 19) was slain by Foxi_Castillo
+[29Jun2025 20:18:15.550] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:18:35.678] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:18:36.353] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:18:36.357] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:18:36.986] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:18:37.656] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:18:38.266] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:18:39.663] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:18:40.364] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:18:55.603] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:18:56.299] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:18:57.000] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:18:58.412] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:18:58.416] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MiniGemGolemEntity['Manastone Golem (Level: 19)'/1852, l='ServerLevel[world]', x=-212829.85, y=69.92, z=135620.18] died: Manastone Golem (Level: 19) was slain by Foxi_Castillo
+[29Jun2025 20:19:08.009] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:19:08.876] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:19:09.433] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:19:09.437] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity StoneGolemEntity['Stone Golem (Level: 18)'/1853, l='ServerLevel[world]', x=-212815.40, y=69.00, z=135612.78] died: Stone Golem (Level: 18) was slain by Foxi_Castillo
+[29Jun2025 20:19:10.111] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:19:45.013] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:19:45.159] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinMageEntity['Goblin Mage (Level: 17)'/1863, l='ServerLevel[world]', x=-212794.30, y=69.46, z=135617.30] died: Goblin Mage (Level: 17) was slain by Foxi_Castillo
+[29Jun2025 20:19:45.600] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:19:51.508] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:19:52.350] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:19:53.446] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinClubEntity['Goblin (Level: 12)'/1856, l='ServerLevel[world]', x=-212789.51, y=69.25, z=135630.26] died: Goblin (Level: 12) was slain by Foxi_Castillo
+[29Jun2025 20:19:53.448] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinClubEntity['Goblin (Level: 11)'/1868, l='ServerLevel[world]', x=-212787.39, y=70.00, z=135628.31] died: Goblin (Level: 11) was slain by Foxi_Castillo
+[29Jun2025 20:19:53.600] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:19:53.601] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:19:57.154] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:19:58.596] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:19:58.599] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinClubEntity['Goblin (Level: 11)'/1855, l='ServerLevel[world]', x=-212792.20, y=67.00, z=135630.50] died: Goblin (Level: 11) was slain by Foxi_Castillo
+[29Jun2025 20:20:05.296] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:20:05.954] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:20:06.532] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:20:07.195] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:20:07.904] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:20:08.508] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:20:08.510] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity StoneGolemEntity['Stone Golem (Level: 16)'/1867, l='ServerLevel[world]', x=-212777.38, y=71.00, z=135631.30] died: Stone Golem (Level: 16) was slain by Foxi_Castillo
+[29Jun2025 20:20:09.106] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:20:09.677] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:20:09.678] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinClubEntity['Goblin (Level: 13)'/1877, l='ServerLevel[world]', x=-212777.48, y=71.00, z=135630.16] died: Goblin (Level: 13) was slain by Foxi_Castillo
+[29Jun2025 20:20:23.095] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:20:23.097] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinClubEntity['Goblin (Level: 12)'/1872, l='ServerLevel[world]', x=-212773.44, y=70.00, z=135614.74] died: Goblin (Level: 12) was slain by Foxi_Castillo
+[29Jun2025 20:20:23.097] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:20:23.696] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:20:23.696] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:20:25.746] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:25.747] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:20:25.797] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:25.848] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:25.904] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:25.954] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:25.996] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:26.046] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:26.156] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:26.162] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:26.194] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:26.244] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:26.295] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:26.344] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:26.396] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:26.445] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:26.495] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:26.545] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:26.595] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:26.644] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:26.694] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:26.744] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:26.800] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:26.847] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:26.894] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:26.944] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:26.994] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:27.031] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:20:27.045] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:27.098] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:27.144] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:27.198] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:27.244] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:27.295] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:27.345] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:27.396] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:27.445] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:27.499] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:27.544] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:27.595] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:27.644] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:27.695] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:27.745] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:27.794] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:27.845] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:27.895] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:27.945] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:28.014] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:28.044] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:28.094] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:28.144] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:28.196] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:28.245] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:28.295] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:28.345] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:28.396] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:28.446] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:28.495] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:28.544] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:28.594] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:28.644] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:28.696] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:28.696] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:28.749] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:28.798] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:28.844] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:28.894] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:28.945] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:28.994] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:28.996] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:20:29.044] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:29.094] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:29.149] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:29.194] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:29.245] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:29.295] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:29.345] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:29.396] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:29.444] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:29.497] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:29.498] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:29.544] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:29.545] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:29.594] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:29.595] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:29.645] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:29.645] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:29.699] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:29.699] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:29.745] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:29.745] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:29.795] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:29.795] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:29.845] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:29.845] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:29.897] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:29.945] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:29.996] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:30.045] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:30.095] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:30.153] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:30.196] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:30.894] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:31.248] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:20:31.249] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinArcherEntity['Goblin Archer  (Level: 11)'/1860, l='ServerLevel[world]', x=-212781.55, y=69.58, z=135617.54] died: Goblin Archer  (Level: 11) was slain by Foxi_Castillo
+[29Jun2025 20:20:33.794] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:33.844] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:33.897] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:33.944] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:33.996] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:34.046] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:34.095] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:34.144] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:34.194] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:34.245] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:34.295] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:34.345] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:34.398] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:34.445] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:34.497] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:34.545] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:34.595] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:34.646] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:34.695] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:34.745] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:34.794] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:34.845] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:34.895] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:34.945] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:34.995] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:35.411] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:20:37.095] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:20:48.905] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:20:48.906] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MiniGemGolemEntity['Manastone Golem (Level: 18)'/1880, l='ServerLevel[world]', x=-212781.75, y=69.18, z=135620.36] died: Manastone Golem (Level: 18) was slain by Foxi_Castillo
+[29Jun2025 20:20:51.944] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:51.994] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:52.044] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:52.094] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:52.144] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:52.194] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:52.244] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:52.294] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:56.494] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:56.557] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:56.598] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:56.652] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:56.696] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:56.745] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:56.794] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:56.794] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:56.848] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:56.848] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:56.894] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:56.894] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:56.944] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:56.944] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:56.944] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:56.994] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:56.994] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:56.994] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.044] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.044] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.044] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.094] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.094] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.094] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.144] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.144] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.144] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.200] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.200] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.200] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.244] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.244] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.244] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.294] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.294] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.294] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.345] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.345] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.345] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.395] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.396] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.396] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.444] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.444] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.444] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.494] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.494] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.494] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.546] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.546] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.546] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.595] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.595] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.644] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.644] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.694] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.694] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.744] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.797] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.844] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:57.894] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:20:59.138] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:21:00.096] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity StoneGolemEntity['Stone Golem (Level: 14)'/1881, l='ServerLevel[world]', x=-212768.65, y=69.00, z=135614.71] died: Stone Golem (Level: 14) was slain by Foxi_Castillo
+[29Jun2025 20:21:00.379] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:21:04.546] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SteelFangWolfEntity['Steel Fang Lycan (Level: 13)'/1882, l='ServerLevel[world]', x=-212774.90, y=70.25, z=135605.44] died: Steel Fang Lycan (Level: 13) was slain by Foxi_Castillo
+[29Jun2025 20:21:04.601] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:21:08.594] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:21:08.644] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:21:08.694] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:21:08.744] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:21:08.794] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:21:08.844] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:21:08.844] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:21:08.844] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:21:08.894] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:21:08.895] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:21:08.895] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:21:08.944] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:21:08.944] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:21:08.945] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:21:08.994] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:21:08.994] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:21:08.994] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:21:09.044] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:21:09.044] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:21:09.094] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:21:09.094] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:21:09.144] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:21:09.144] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:21:09.194] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:21:09.194] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:21:09.244] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:21:11.939] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 20:21:11.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 20:21:16.116] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:21:16.130] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinClubEntity['Goblin (Level: 11)'/1906, l='ServerLevel[world]', x=-212732.30, y=72.34, z=135624.99] died: Goblin (Level: 11) was slain by Foxi_Castillo
+[29Jun2025 20:21:16.695] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:21:17.328] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:21:17.980] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:21:18.047] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinArcherEntity['Goblin Archer  (Level: 15)'/1904, l='ServerLevel[world]', x=-212729.85, y=69.50, z=135618.62] died: Goblin Archer  (Level: 15) was slain by Foxi_Castillo
+[29Jun2025 20:21:18.604] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:21:19.483] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:21:20.048] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinClubEntity['Goblin (Level: 18)'/1903, l='ServerLevel[world]', x=-212735.16, y=70.00, z=135616.26] died: Goblin (Level: 18) was slain by Foxi_Castillo
+[29Jun2025 20:21:20.051] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinArcherEntity['Goblin Archer  (Level: 19)'/1896, l='ServerLevel[world]', x=-212735.70, y=70.00, z=135613.27] died: Goblin Archer  (Level: 19) was slain by Foxi_Castillo
+[29Jun2025 20:21:20.182] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:21:20.182] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:21:22.735] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:21:22.736] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinClubEntity['Goblin (Level: 13)'/1902, l='ServerLevel[world]', x=-212735.27, y=70.00, z=135616.27] died: Goblin (Level: 13) was slain by Foxi_Castillo
+[29Jun2025 20:21:24.030] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:21:24.032] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SteelFangWolfEntity['Steel Fang Lycan (Level: 19)'/1887, l='ServerLevel[world]', x=-212735.19, y=69.19, z=135618.92] died: Steel Fang Lycan (Level: 19) was slain by Foxi_Castillo
+[29Jun2025 20:21:24.595] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:21:25.195] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:21:26.595] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:21:26.596] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinClubEntity['Goblin (Level: 12)'/1895, l='ServerLevel[world]', x=-212728.10, y=69.00, z=135618.28] died: Goblin (Level: 12) was slain by Foxi_Castillo
+[29Jun2025 20:21:27.233] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:21:27.888] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:21:28.884] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:21:28.887] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SteelFangWolfEntity['Steel Fang Lycan (Level: 13)'/1891, l='ServerLevel[world]', x=-212723.48, y=70.00, z=135618.99] died: Steel Fang Lycan (Level: 13) was slain by Foxi_Castillo
+[29Jun2025 20:21:59.482] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:22:00.083] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:22:01.434] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:22:02.736] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:22:03.338] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:22:03.938] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:22:04.594] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:22:05.194] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:22:05.894] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:22:06.598] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:22:07.177] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:22:07.779] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:22:08.477] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:22:09.178] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:22:09.883] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:22:10.583] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:22:13.135] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:22:14.837] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:22:16.795] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:22:18.730] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:22:19.328] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:22:19.932] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:22:21.890] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:22:22.553] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:22:23.134] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:22:23.882] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:22:26.428] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:22:33.576] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:22:35.506] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:22:36.144] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:22:37.344] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:22:37.896] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SpiderBossEntity['Giant Spider (Level: 20)'/1931, l='ServerLevel[world]', x=-212688.38, y=71.00, z=135637.68] died: Giant Spider (Level: 20) was slain by Foxi_Castillo
+[29Jun2025 20:22:38.045] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:25:34.530] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:25:35.379] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:25:35.395] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:35.444] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:35.499] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:35.548] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:35.598] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:35.648] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:35.694] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:35.746] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:35.794] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:35.844] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:35.894] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:35.944] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:35.994] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:36.044] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:36.094] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:36.144] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:36.194] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:36.244] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:36.294] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:36.343] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:37.081] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:25:37.083] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinArcherEntity['Goblin Archer  (Level: 19)'/1901, l='ServerLevel[world]', x=-212724.77, y=52.00, z=135609.25] died: Goblin Archer  (Level: 19) was slain by Foxi_Castillo
+[29Jun2025 20:25:38.152] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:25:39.094] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:39.145] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:39.159] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:25:39.194] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:39.245] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:39.296] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:39.348] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:39.395] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:39.444] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:39.494] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:39.544] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:40.100] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:25:40.102] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinClubEntity['Goblin (Level: 16)'/1899, l='ServerLevel[world]', x=-212726.31, y=51.00, z=135611.54] died: Goblin (Level: 16) was slain by Foxi_Castillo
+[29Jun2025 20:25:42.726] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinArcherEntity['Goblin Archer  (Level: 19)'/1886, l='ServerLevel[world]', x=-212723.18, y=52.00, z=135607.41] died: Goblin Archer  (Level: 19) was slain by Foxi_Castillo
+[29Jun2025 20:25:42.844] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:42.844] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:42.894] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:42.894] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:42.944] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:42.944] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:42.994] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:42.995] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:43.044] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:43.044] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:43.095] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:43.096] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:43.144] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:43.144] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:43.145] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:25:43.193] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:43.194] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:43.243] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:43.243] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:43.294] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:43.294] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:43.352] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:43.352] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:43.395] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:43.395] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:43.443] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:43.443] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:43.494] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:43.494] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:43.544] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:43.544] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:43.594] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:43.594] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:43.644] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:43.644] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:43.694] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:43.694] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:43.743] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:43.743] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:43.794] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:43.794] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:43.847] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:43.848] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:43.894] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:43.894] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:43.944] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:43.944] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:43.994] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:43.994] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:44.044] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:44.044] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:44.094] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:44.094] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:44.144] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:44.144] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:44.194] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:44.194] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:44.244] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:44.294] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:25:48.535] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:25:49.285] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:25:49.287] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SteelFangWolfEntity['Steel Fang Lycan (Level: 20)'/1885, l='ServerLevel[world]', x=-212724.02, y=51.00, z=135613.56] died: Steel Fang Lycan (Level: 20) was slain by Foxi_Castillo
+[29Jun2025 20:25:50.128] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:25:57.232] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:25:58.898] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:25:58.899] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinClubEntity['Goblin (Level: 14)'/1900, l='ServerLevel[world]', x=-212742.57, y=51.42, z=135605.50] died: Goblin (Level: 14) was slain by Foxi_Castillo
+[29Jun2025 20:25:59.647] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:26:01.294] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:26:03.786] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:26:05.403] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:26:06.145] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:26:06.946] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:26:08.550] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:26:09.395] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:26:09.396] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MiniGemGolemEntity['Manastone Golem (Level: 18)'/1890, l='ServerLevel[world]', x=-212745.02, y=52.00, z=135616.02] died: Manastone Golem (Level: 18) was slain by Foxi_Castillo
+[29Jun2025 20:26:11.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 20:26:12.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 20:26:14.495] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:26:15.523] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinClubEntity['Goblin (Level: 18)'/1884, l='ServerLevel[world]', x=-212744.32, y=51.75, z=135621.30] died: Goblin (Level: 18) was slain by Foxi_Castillo
+[29Jun2025 20:26:15.627] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:26:15.627] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:26:16.729] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:26:17.647] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:26:21.035] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:26:21.838] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:26:21.840] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinClubEntity['Goblin (Level: 14)'/1889, l='ServerLevel[world]', x=-212744.36, y=51.00, z=135623.21] died: Goblin (Level: 14) was slain by Foxi_Castillo
+[29Jun2025 20:26:21.840] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:26:22.588] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:26:23.396] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:26:24.128] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:26:24.877] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:26:25.637] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:26:25.638] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MiniGemGolemEntity['Manastone Golem (Level: 22)'/1883, l='ServerLevel[world]', x=-212743.50, y=51.00, z=135624.50] died: Manastone Golem (Level: 22) was slain by Foxi_Castillo
+[29Jun2025 20:26:42.188] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:26:43.095] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:26:43.096] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinClubEntity['Goblin (Level: 12)'/1894, l='ServerLevel[world]', x=-212722.47, y=52.00, z=135633.48] died: Goblin (Level: 12) was slain by Foxi_Castillo
+[29Jun2025 20:26:43.838] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:27:24.354] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:27:24.359] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinMageEntity['Goblin Mage (Level: 17)'/1909, l='ServerLevel[world]', x=-212765.48, y=69.00, z=135613.22] died: Goblin Mage (Level: 17) was slain by Foxi_Castillo
+[29Jun2025 20:27:25.094] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:27:36.871] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Jun2025 20:27:54.946] [Worker-Main-2/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [ars_nouveau] are present.
+[29Jun2025 20:27:55.438] [Worker-Main-2/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [iceandfire] are present.
+[29Jun2025 20:27:56.082] [Worker-Main-2/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[29Jun2025 20:28:00.623] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id alexsmobs:komodo_dragon
+[29Jun2025 20:28:08.698] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:holy_magic_resist'
+[29Jun2025 20:28:08.699] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:blood_magic_resist'
+[29Jun2025 20:28:08.700] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:holy_magic_resist'
+[29Jun2025 20:28:08.701] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:blood_magic_resist'
+[29Jun2025 20:28:08.702] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:holy_magic_resist'
+[29Jun2025 20:28:08.702] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:blood_magic_resist'
+[29Jun2025 20:28:09.163] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14524ms or 290 ticks behind
+[29Jun2025 20:28:18.417] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Bee['Bee'/2348, l='ServerLevel[world]', x=-291.99, y=87.70, z=588.57]
+[29Jun2025 20:28:33.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Foxi_Castillo moved too quickly! 5.5,2.0,25.5
+[29Jun2025 20:28:34.358] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10219ms or 204 ticks behind
+[29Jun2025 20:28:45.337] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:28:46.176] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:28:46.177] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinClubEntity['Goblin (Level: 3)'/2360, l='ServerLevel[world]', x=-241868.33, y=86.00, z=193817.56] died: Goblin (Level: 3) was slain by Foxi_Castillo
+[29Jun2025 20:28:47.149] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:28:48.428] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:28:49.196] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:28:49.200] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinClubEntity['Goblin (Level: 6)'/2359, l='ServerLevel[world]', x=-241864.53, y=86.00, z=193818.44] died: Goblin (Level: 6) was slain by Foxi_Castillo
+[29Jun2025 20:28:49.933] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:28:52.985] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:28:53.733] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:28:54.493] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:28:55.098] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinClubEntity['Goblin (Level: 10)'/2367, l='ServerLevel[world]', x=-241847.77, y=86.00, z=193818.62] died: Goblin (Level: 10) was slain by Foxi_Castillo
+[29Jun2025 20:28:56.444] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:28:57.220] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinClubEntity['Goblin (Level: 6)'/2363, l='ServerLevel[world]', x=-241846.33, y=86.00, z=193819.24] died: Goblin (Level: 6) was slain by Foxi_Castillo
+[29Jun2025 20:28:57.293] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:28:58.043] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:28:58.045] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity StoneGolemEntity['Stone Golem (Level: 1)'/2358, l='ServerLevel[world]', x=-241847.20, y=86.00, z=193820.80] died: Stone Golem (Level: 1) was slain by Foxi_Castillo
+[29Jun2025 20:28:58.928] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:28:59.943] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:28:59.944] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinClubEntity['Goblin (Level: 5)'/2364, l='ServerLevel[world]', x=-241847.93, y=86.00, z=193818.86] died: Goblin (Level: 5) was slain by Foxi_Castillo
+[29Jun2025 20:29:00.798] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:29:02.630] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:29:04.696] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:29:04.697] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:29:04.698] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:29:04.699] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:29:05.653] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinClubEntity['Goblin (Level: 1)'/2369, l='ServerLevel[world]', x=-241838.27, y=86.00, z=193816.11] died: Goblin (Level: 1) was slain by Foxi_Castillo
+[29Jun2025 20:29:05.655] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinClubEntity['Goblin (Level: 1)'/2365, l='ServerLevel[world]', x=-241837.29, y=86.00, z=193815.61] died: Goblin (Level: 1) was slain by Foxi_Castillo
+[29Jun2025 20:29:05.656] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinClubEntity['Goblin (Level: 4)'/2362, l='ServerLevel[world]', x=-241837.49, y=86.00, z=193814.71] died: Goblin (Level: 4) was slain by Foxi_Castillo
+[29Jun2025 20:29:06.294] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:29:07.036] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:29:07.038] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity StoneGolemEntity['Stone Golem (Level: 6)'/2361, l='ServerLevel[world]', x=-241836.17, y=86.00, z=193813.65] died: Stone Golem (Level: 6) was slain by Foxi_Castillo
+[29Jun2025 20:29:07.793] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:29:11.343] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:29:11.344] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinClubEntity['Goblin (Level: 3)'/2366, l='ServerLevel[world]', x=-241825.61, y=86.00, z=193819.30] died: Goblin (Level: 3) was slain by Foxi_Castillo
+[29Jun2025 20:29:15.034] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:29:15.843] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:29:16.585] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:29:17.396] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jun2025 20:29:17.397] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity StoneGolemEntity['Stone Golem (Level: 2)'/2368, l='ServerLevel[world]', x=-241816.62, y=87.00, z=193821.80] died: Stone Golem (Level: 2) was slain by Foxi_Castillo
+[29Jun2025 20:29:18.243] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!

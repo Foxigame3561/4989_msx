@@ -1,0 +1,17 @@
+{
+	id: "eea1cc73-2ca4-3f52-b852-ce4cf1a5e48a"
+	type: "player"
+	player_name: "Foxi_Castillo"
+	ranks: {
+		eea1cc73-2ca4-3f52-b852-ce4cf1a5e48a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Foxi_Castillo"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFD859"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

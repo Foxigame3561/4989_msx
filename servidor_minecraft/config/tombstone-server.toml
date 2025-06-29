@@ -29,6 +29,14 @@
 	enable_enchantment_frostbite = true
 	#Enables the enchantment Spectral Conjurer [false/true|default:true]
 	enable_enchantment_spectral_conjurer = true
+	#Enables the enchantment Incurable Wounds [false/true|default:true]
+	enable_enchantment_incurable_wounds = true
+	#Enables the enchantment Decrepitude [false/true|default:true]
+	enable_enchantment_decrepitude = true
+	#Enables the enchantment Sanctified [false/true|default:true]
+	enable_enchantment_sanctified = true
+	#Enables the enchantment Ruthless Strike [false/true|default:true]
+	enable_enchantment_ruthless_strike = true
 	#Allows Soulbound at enchanting table [false/true|default:false]
 	soulbound_enchanting_table = true
 	#Allows Spectral Bite at enchanting table [false/true|default:false]
@@ -45,10 +53,14 @@
 	frostbite_enchanting_table = true
 	#Allows Spectral Conjurer at enchanting table [false/true|default:false]
 	spectral_conjurer_enchanting_table = true
-	#Allows Plague Bringer to combine with Magic Siphon [false/true|default:false]
-	plague_bringer_combining_magic_siphon = false
-	#Allows Frostbite to combine with Fire Aspect [false/true|default:false]
-	frostbite_combining_fire_aspect = true
+	#Allows Incurable Wounds at enchanting table [false/true|default:false]
+	incurable_wounds_enchanting_table = true
+	#Allows Decrepitude at enchanting table [false/true|default:false]
+	decrepitude_enchanting_table = true
+	#Allows Sanctified at enchanting table [false/true|default:false]
+	sanctified_enchanting_table = true
+	#Allows Ruthless Strike at enchanting table [false/true|default:false]
+	ruthless_strike_enchanting_table = true
 
 #Allows to customize or disable the potions
 [potions]
@@ -117,6 +129,16 @@
 	#Defines the level max of the perk Witch Doctor [1..5|default:5]
 	#Range: 1 ~ 5
 	level_max_witch_doctor = 5
+	#Allows the perk Gladiator [false/true|default:true]
+	allow_gladiator = true
+	#Defines the level max of the perk Gladiator [1..5|default:5]
+	#Range: 1 ~ 5
+	level_max_gladiator = 5
+	#Allows the perk Priest [false/true|default:true]
+	allow_priest = true
+	#Defines the level max of the perk Priest [1..5|default:5]
+	#Range: 1 ~ 5
+	level_max_priest = 5
 	#The cooldown in minutes to reset the perks with the ankh of Prayer [20..1440|default:120]
 	#Range: 20 ~ 1440
 	cooldown_reset_perk = 120
@@ -133,18 +155,15 @@
 	#Defines experience lost when storing experience in a Scroll of Knowledge
 	#Range: 0 ~ 90
 	scroll_of_knowledge_loss = 0
-	#Maximum uses of a tablet [1..10|default:3]
-	#Range: 1 ~ 10
-	tablet_max_use = 3
 	#Cooldown in second after using a tablet [60..1200|default:300]
 	#Range: 60 ~ 1200
 	tablet_cooldown = 300
 
 #For settings related to decorative tombs and magic items
 [decorative_grave]
-	#The cooldown in hours to pray with the Ankh [1..10|default:3]
-	#Range: 1 ~ 10
-	cooldown_to_pray = 3
+	#The cooldown in minutes to pray with the Ankh [1..600|default:120]
+	#Range: 1 ~ 600
+	prayer_cooldown = 120
 
 #Allows to disable some magic items
 [allowedMagicItems]
@@ -202,6 +221,12 @@
 	allow_book_of_repairing = true
 	#Book of Magic Impregnation [false/true|default:true]
 	allow_book_of_magic_impregnation = true
+	#Book of Scribe [false/true|default:true]
+	allow_book_of_scribe = true
+	#Book of Soulbound [false/true|default:true]
+	allow_book_of_soulbound = true
+	#Book of Oblivion [false/true|default:true]
+	allow_book_of_oblivion = true
 	#Smoke Ball [false/true|default:true]
 	allow_smoke_ball = true
 	#Seeker Rod [false/true|default:true]
@@ -216,13 +241,13 @@
 	allow_gemstone_of_familiar = true
 	#Gemstone of Merchant [false/true|default:true]
 	allow_gemstone_of_merchant = true
-	#Gemstone of Guardian [false/true|default:true]
+	#Gemstone of Prayer [false/true|default:true]
 	allow_gemstone_of_prayer = true
+	#Gemstone of Guardian [false/true|default:true]
+	allow_gemstone_of_guardian = true
 
 #Allows to enable some features related to others mods
 [compatibility]
-	#fix the custom name with anvil when the string is empty [false/true|default:true]
-	fix_anvil_custom_name = true
 	#fix the RepairCost:0 added by the anvil & grindstone in nbt preventing theses items to stack [false/true|default:true]
 	fix_repair_cost_zero = true
 

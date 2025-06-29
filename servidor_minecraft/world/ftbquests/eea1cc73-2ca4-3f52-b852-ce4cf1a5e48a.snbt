@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "eea1cc732ca43f52b852ce4cf1a5e48a"
+	name: "Foxi_Castillo#eea1cc73"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

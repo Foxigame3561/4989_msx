@@ -605,6 +605,9 @@
 		#Changes the "Chest Damage Bonus" Weapon Trait multiplier value
 		#Range: 1.0 ~ 50.0
 		chest_multiplier = 2.0
+		#Changes the "Head Damage Bonus" Weapon Trait multiplier value
+		#Range: 1.0 ~ 50.0
+		head_multiplier = 1.5
 		#Changes the "Riding Damage Bonus" Weapon Trait multiplier value
 		#Range: 1.0 ~ 50.0
 		riding_multiplier = 2.0

@@ -2,9 +2,7 @@
 	id: "7f78dd8b-cbec-390b-8437-3fdf8e0ba0ad"
 	type: "player"
 	player_name: "badluckyto"
-	ranks: {
-		7f78dd8b-cbec-390b-8437-3fdf8e0ba0ad: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "badluckyto"
 		"ftbteams:description": ""

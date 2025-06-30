@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "cc4a59b443904d609c58500cac4fa5ba"
+	name: "Mamadas#cc4a59b4"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

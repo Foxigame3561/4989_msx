@@ -2,14 +2,21 @@
 	id: "cc4a59b4-4390-4d60-9c58-500cac4fa5ba"
 	type: "party"
 	owner: "eea1cc73-2ca4-3f52-b852-ce4cf1a5e48a"
-	ranks: { }
+	ranks: {
+		eea1cc73-2ca4-3f52-b852-ce4cf1a5e48a: "owner"
+		7f78dd8b-cbec-390b-8437-3fdf8e0ba0ad: "member"
+	}
 	properties: {
 		"ftbteams:display_name": "Mamadas"
-		"ftbteams:description": ""
-		"ftbteams:color": "#59F1FF"
+		"ftbteams:description": "has tu mamada"
+		"ftbteams:color": "#FF595A"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 	}
-	message_history: [ ]
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1751308109033L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Foxi_Castillo\"}]}" }
+		{ from: "eea1cc73-2ca4-3f52-b852-ce4cf1a5e48a", date: 1751308109067L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"badluckyto\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1751308113578L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"badluckyto\"}]}" }
+	]
 	extra: { }
 }

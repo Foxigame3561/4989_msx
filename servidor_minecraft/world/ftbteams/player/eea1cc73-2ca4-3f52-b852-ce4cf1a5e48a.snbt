@@ -2,9 +2,7 @@
 	id: "eea1cc73-2ca4-3f52-b852-ce4cf1a5e48a"
 	type: "player"
 	player_name: "Foxi_Castillo"
-	ranks: {
-		eea1cc73-2ca4-3f52-b852-ce4cf1a5e48a: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Foxi_Castillo"
 		"ftbteams:description": ""

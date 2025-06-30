@@ -1055,3 +1055,49 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Jun2025 18:34:56.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Foxi_Castillo: Teleported badluckyto to Foxi_Castillo]
 [30Jun2025 18:35:41.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Stone Age]
 [30Jun2025 18:39:24.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Getting an Upgrade]
+[30Jun2025 18:44:52.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <badluckyto> no se activa la monda
+[30Jun2025 18:45:29.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <badluckyto> discord
+[30Jun2025 18:45:30.121] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7f78dd8b-cbec-390b-8437-3fdf8e0ba0ad timed out
+[30Jun2025 18:45:30.122] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player badluckyto
+[30Jun2025 18:45:30.126] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to badluckyto
+[30Jun2025 18:45:30.561] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7f78dd8b-cbec-390b-8437-3fdf8e0ba0ad
+[30Jun2025 18:45:31.562] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7f78dd8b-cbec-390b-8437-3fdf8e0ba0ad
+[30Jun2025 18:45:31.563] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player badluckyto (7f78dd8b-cbec-390b-8437-3fdf8e0ba0ad) successfully connected to voice chat
+[30Jun2025 18:45:35.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Suit Up]
+[30Jun2025 18:46:37.512] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7f78dd8b-cbec-390b-8437-3fdf8e0ba0ad timed out
+[30Jun2025 18:46:37.513] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player badluckyto
+[30Jun2025 18:46:37.513] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to badluckyto
+[30Jun2025 18:46:37.766] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7f78dd8b-cbec-390b-8437-3fdf8e0ba0ad
+[30Jun2025 18:46:39.767] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7f78dd8b-cbec-390b-8437-3fdf8e0ba0ad
+[30Jun2025 18:46:39.768] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player badluckyto (7f78dd8b-cbec-390b-8437-3fdf8e0ba0ad) successfully connected to voice chat
+[30Jun2025 18:47:31.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Mine? Mine? Mine?]
+[30Jun2025 18:47:53.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Knowledge of Death]
+[30Jun2025 18:47:53.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Ashes 'n Bones]
+[30Jun2025 18:48:25.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: badluckyto has made the advancement [Knowledge of Death]
+[30Jun2025 18:48:25.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: badluckyto has made the advancement [Ashes 'n Bones]
+[30Jun2025 18:50:09.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: badluckyto has made the advancement [An Extra Seedy Place]
+[30Jun2025 18:50:16.718] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player eea1cc73-2ca4-3f52-b852-ce4cf1a5e48a timed out
+[30Jun2025 18:50:16.718] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Foxi_Castillo
+[30Jun2025 18:50:16.719] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Foxi_Castillo
+[30Jun2025 18:50:16.980] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player eea1cc73-2ca4-3f52-b852-ce4cf1a5e48a
+[30Jun2025 18:50:17.980] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player eea1cc73-2ca4-3f52-b852-ce4cf1a5e48a
+[30Jun2025 18:50:17.981] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Foxi_Castillo (eea1cc73-2ca4-3f52-b852-ce4cf1a5e48a) successfully connected to voice chat
+[30Jun2025 18:54:57.707] [Server thread/INFO] [tombstone/]: The player badluckyto has successfully been saved
+[30Jun2025 18:55:03.153] [Server thread/INFO] [tombstone/]: The player badluckyto has successfully been saved
+[30Jun2025 18:55:10.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: badluckyto has made the advancement [Mine? Mine? Mine?]
+[30Jun2025 18:55:25.692] [Server thread/INFO] [tombstone/]: The player badluckyto has successfully been saved
+[30Jun2025 18:55:27.291] [Server thread/INFO] [tombstone/]: The player badluckyto has successfully been saved
+[30Jun2025 18:55:29.323] [Server thread/INFO] [tombstone/]: The player badluckyto has successfully been saved
+[30Jun2025 18:55:33.157] [Server thread/WARN] [tombstone/]: The death event of the player badluckyto was canceled by another mod
+[30Jun2025 18:55:33.158] [Server thread/INFO] [tombstone/]: The player badluckyto has successfully been saved
+[30Jun2025 18:57:54.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: badluckyto has made the advancement [Stone Age]
+[30Jun2025 18:58:02.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: badluckyto has made the advancement [Getting an Upgrade]
+[30Jun2025 18:58:45.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Foxi_Castillo> listo
+[30Jun2025 18:58:55.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Foxi_Castillo> no puedo hablar
+[30Jun2025 18:59:11.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Foxi_Castillo> se metio alguien a mi cuarto
+[30Jun2025 18:59:21.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Foxi_Castillo> mi papa
+[30Jun2025 19:00:18.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Foxi_Castillo> los picos suben de nivel xd
+[30Jun2025 19:01:08.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Foxi_Castillo> vamos
+[30Jun2025 19:01:31.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [A Strange Grave Dust]
+[30Jun2025 19:02:03.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Foxi_Castillo has made the advancement [Pic-A-Nic Basket?]
+[30Jun2025 19:02:06.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: badluckyto has made the advancement [Pic-A-Nic Basket?]

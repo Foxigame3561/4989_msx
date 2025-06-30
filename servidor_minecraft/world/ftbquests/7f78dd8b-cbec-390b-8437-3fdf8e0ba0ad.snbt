@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "7f78dd8bcbec390b84373fdf8e0ba0ad"
+	name: "badluckyto#7f78dd8b"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

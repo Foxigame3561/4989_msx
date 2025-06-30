@@ -1,0 +1,17 @@
+{
+	id: "7f78dd8b-cbec-390b-8437-3fdf8e0ba0ad"
+	type: "player"
+	player_name: "badluckyto"
+	ranks: {
+		7f78dd8b-cbec-390b-8437-3fdf8e0ba0ad: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "badluckyto"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59E3FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

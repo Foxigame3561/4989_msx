@@ -3,20 +3,9 @@
 	fly: false
 	god: false
 	nick: ""
-	last_seen: { dim: "minecraft:overworld", x: -479, y: 109, z: 598, time: 1751227833401L, xRot: 19.199919f, yRot: -77.8508f }
+	last_seen: { dim: "minecraft:overworld", x: 35, y: 136, z: -16, time: 1751307716109L, xRot: 16.649912f, yRot: -104.998535f }
 	recording: "none"
-	teleport_history: [
-		{ dim: "sololeveling:dungeon_dimension_sewers", x: 250445, y: 79, z: 38495, time: 1751218553334L }
-		{ dim: "sololeveling:dungeon_dimension_random", x: -225092, y: 109, z: -63702, time: 1751219534752L }
-		{ dim: "sololeveling:dungeon_dimension_random", x: -225092, y: 109, z: -63702, time: 1751219689652L }
-		{ dim: "sololeveling:dungeon_dimension_lab", x: 38582, y: 47, z: 59297, time: 1751220623836L }
-		{ dim: "sololeveling:dungeon_dimension_lab", x: 38577, y: 47, z: 59296, time: 1751220671268L }
-		{ dim: "sololeveling:dungeon_dimension_lab", x: 38582, y: 47, z: 59295, time: 1751220705013L }
-		{ dim: "sololeveling:dungeon_dimension_lab", x: 38577, y: 47, z: 59296, time: 1751220751153L }
-		{ dim: "sololeveling:dungeon_dimension_lab", x: 38577, y: 47, z: 59296, time: 1751220791786L }
-		{ dim: "minecraft:overworld", x: -346, y: 66, z: 508, time: 1751220909825L }
-		{ dim: "minecraft:overworld", x: -488, y: 92, z: 588, time: 1751220995184L }
-	]
+	teleport_history: [ ]
 	homes: { }
 	kit_use_times: { }
 }
